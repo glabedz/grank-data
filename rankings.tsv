@@ -2,141 +2,141 @@
 																																											
 	Player	Team	Position	Implied Rank	Proj PPG	Season	Pass Yds	Pass YPG	Pass TDs	Rush Yds	Rush YPG	Rush TDs	Receptions	Rec PG	Rec Yards	Rec YPG	Rec TD	EPS	Pos_Scarcity	Adj_Pos_Scar	z_Score	Pos_Value	Overall Rank	Overall ADP	Delta to ADP	Pos. Rank	Pos. ADP	Delta to Pos. ADP	G-RANK			QB Ranks	Season	Rank	RB Ranks	Season	Rank	WR Ranks	Season	Rank	TE Ranks	Season	Rank
 	Bijan Robinson	Atlanta Falcons	RB	RB1	18.5 	296 	0 	0 	0 	1,485 	93 	11 	39 	2 	403 	25 	4 	0.887 	1.000 	0.990 	2 	1.000 	1 	1 	0 	1 	1 	0 	0.984 			Josh Allen	333 	QB1	Bijan Robinson	296 	RB1	Ja'Marr Chase	277 	WR1	Brock Bowers	188 	TE1
-	Ja'Marr Chase	Cincinnati Bengals	WR	WR1	17.3 	277 	0 	0 	0 	0 	0 	0 	124 	8 	1,404 	88 	12 	0.830 	1.000 	0.990 	2 	1.000 	2 	3 	1 	1 	1 	0 	0.978 			Lamar Jackson	309 	QB2	Jahmyr Gibbs	293 	RB2	Puka Nacua	273 	WR2	Trey McBride	174 	TE2
-	Jahmyr Gibbs	Detroit Lions	RB	RB2	18.3 	293 	0 	0 	0 	1,105 	69 	10 	74 	5 	588 	37 	5 	0.879 	1.000 	0.980 	2 	0.981 	3 	2 	(1)	2 	2 	0 	0.970 			Joe Burrow	308 	QB3	Christian McCaffrey	289 	RB3	Jaxon Smith-Njigba	271 	WR3	Colston Loveland	167 	TE3
-	Puka Nacua	Los Angeles Rams	WR	WR2	17.1 	273 	0 	0 	0 	37 	2 	0 	115 	7 	1,534 	96 	10 	0.819 	1.000 	0.980 	2 	0.976 	4 	4 	0 	2 	2 	0 	0.962 			Jalen Hurts	299 	QB4	Jonathan Taylor	279 	RB4	Amon-Ra St. Brown	240 	WR4	Tyler Warren	160 	TE4
-	Jaxon Smith-Njigba	Seattle Seahawks	WR	WR3	17.0 	271 	0 	0 	0 	17 	1 	0 	101 	6 	1,531 	96 	11 	0.815 	1.000 	0.970 	2 	0.965 	5 	5 	0 	3 	3 	0 	0.952 			Jayden Daniels	298 	QB5	De'Von Achane	273 	RB5	CeeDee Lamb	231 	WR5	Harold Fannin Jr.	148 	TE5
+	Ja'Marr Chase	Cincinnati Bengals	WR	WR1	17.3 	277 	0 	0 	0 	0 	0 	0 	124 	8 	1,404 	88 	12 	0.830 	1.000 	0.990 	2 	1.000 	2 	3 	1 	1 	1 	0 	0.978 			Lamar Jackson	309 	QB2	Jahmyr Gibbs	293 	RB2	Jaxon Smith-Njigba	274 	WR2	Trey McBride	174 	TE2
+	Jahmyr Gibbs	Detroit Lions	RB	RB2	18.3 	293 	0 	0 	0 	1,105 	69 	10 	74 	5 	588 	37 	5 	0.879 	1.000 	0.980 	2 	0.981 	3 	2 	(1)	2 	2 	0 	0.970 			Joe Burrow	308 	QB3	Christian McCaffrey	289 	RB3	Puka Nacua	273 	WR3	Colston Loveland	167 	TE3
+	Jaxon Smith-Njigba	Seattle Seahawks	WR	WR2	17.1 	274 	0 	0 	0 	21 	1 	0 	102 	6 	1,538 	96 	11 	0.822 	1.000 	0.980 	2 	0.981 	4 	5 	1 	2 	3 	1 	0.965 			Jalen Hurts	299 	QB4	Jonathan Taylor	279 	RB4	Amon-Ra St. Brown	240 	WR4	Tyler Warren	160 	TE4
+	Puka Nacua	Los Angeles Rams	WR	WR3	17.1 	273 	0 	0 	0 	37 	2 	0 	115 	7 	1,534 	96 	10 	0.819 	1.000 	0.970 	2 	0.976 	5 	4 	(1)	3 	2 	(1)	0.957 			Jayden Daniels	298 	QB5	De'Von Achane	273 	RB5	CeeDee Lamb	231 	WR5	Harold Fannin Jr.	148 	TE5
 	Christian McCaffrey	San Francisco 49ers	RB	RB3	18.0 	289 	0 	0 	0 	1,005 	63 	9 	75 	5 	684 	43 	5 	0.866 	1.000 	0.970 	2 	0.952 	6 	6 	0 	3 	3 	0 	0.952 			Dak Prescott	297 	QB6	James Cook III	244 	RB6	Justin Jefferson	225 	WR6	Tucker Kraft	142 	TE6
 	Jonathan Taylor	Indianapolis Colts	RB	RB4	17.4 	279 	0 	0 	0 	1,401 	88 	13 	38 	2 	308 	19 	2 	0.838 	1.000 	0.960 	2 	0.888 	7 	7 	0 	4 	4 	0 	0.915 			Trevor Lawrence	295 	QB7	Kenneth Walker III	244 	RB7	George Pickens	219 	WR7	Kyle Pitts Sr.	127 	TE7
 	De'Von Achane	Miami Dolphins	RB	RB5	17.1 	273 	0 	0 	0 	1,287 	80 	10 	57 	4 	415 	26 	3 	0.819 	1.000 	0.950 	2 	0.845 	8 	13 	5 	5 	7 	2 	0.890 			Drake Maye	295 	QB8	Ashton Jeanty	244 	RB8	Nico Collins	219 	WR8	Sam LaPorta	123 	TE8
 	Amon-Ra St. Brown	Detroit Lions	WR	WR4	15.0 	240 	0 	0 	0 	16 	1 	0 	105 	7 	1,255 	78 	10 	0.720 	1.000 	0.960 	2 	0.747 	9 	8 	(1)	4 	4 	0 	0.840 			Brock Purdy	292 	QB9	Omarion Hampton	242 	RB9	A.J. Brown	217 	WR9	George Kittle	115 	TE9
-	CeeDee Lamb	Dallas Cowboys	WR	WR5	14.4 	231 	0 	0 	0 	0 	0 	0 	89 	6 	1,277 	80 	10 	0.693 	1.000 	0.950 	2 	0.686 	10 	11 	1 	5 	6 	1 	0.806 			Patrick Mahomes II	288 	QB10	Derrick Henry	239 	RB10	Drake London	211 	WR10	Travis Kelce	111 	TE10
-	James Cook III	Buffalo Bills	RB	RB6	15.3 	244 	0 	0 	0 	1,335 	83 	9 	34 	2 	296 	18 	2 	0.733 	1.000 	0.940 	1 	0.649 	11 	10 	(1)	6 	5 	(1)	0.788 			Jaxson Dart	288 	QB11	Chase Brown	239 	RB11	Rashee Rice	210 	WR11	Chig Okonkwo	111 	TE11
-	Kenneth Walker III	Kansas City Chiefs	RB	RB7	15.2 	244 	0 	0 	0 	1,142 	71 	10 	39 	2 	354 	22 	3 	0.732 	1.000 	0.930 	1 	0.646 	12 	20 	8 	7 	11 	4 	0.782 			Justin Herbert	287 	QB12	Saquon Barkley	239 	RB12	Garrett Wilson	208 	WR12	Jake Ferguson	109 	TE12
-	Justin Jefferson	Minnesota Vikings	WR	WR6	14.0 	225 	0 	0 	0 	0 	0 	0 	94 	6 	1,266 	79 	9 	0.674 	1.000 	0.940 	1 	0.642 	13 	9 	(4)	6 	5 	(1)	0.779 			Caleb Williams	285 	QB13	Breece Hall	233 	RB13	Tetairoa McMillan	201 	WR13	Mark Andrews	109 	TE13
-	Ashton Jeanty	Las Vegas Raiders	RB	RB8	15.2 	244 	0 	0 	0 	1,201 	75 	8 	60 	4 	377 	24 	2 	0.731 	1.000 	0.920 	1 	0.645 	14 	12 	(2)	8 	6 	(2)	0.777 			Kyler Murray	280 	QB14	Javonte Williams	222 	RB14	Malik Nabers	193 	WR14	Hunter Henry	108 	TE14
+	CeeDee Lamb	Dallas Cowboys	WR	WR5	14.4 	231 	0 	0 	0 	0 	0 	0 	89 	6 	1,277 	80 	10 	0.693 	1.000 	0.950 	2 	0.686 	10 	11 	1 	5 	6 	1 	0.806 			Patrick Mahomes II	288 	QB10	Chase Brown	240 	RB10	Drake London	211 	WR10	Travis Kelce	111 	TE10
+	James Cook III	Buffalo Bills	RB	RB6	15.3 	244 	0 	0 	0 	1,335 	83 	9 	34 	2 	296 	18 	2 	0.733 	1.000 	0.940 	1 	0.650 	11 	10 	(1)	6 	5 	(1)	0.789 			Jaxson Dart	288 	QB11	Derrick Henry	239 	RB11	Rashee Rice	210 	WR11	Chig Okonkwo	111 	TE11
+	Kenneth Walker III	Kansas City Chiefs	RB	RB7	15.2 	244 	0 	0 	0 	1,142 	71 	10 	39 	2 	354 	22 	3 	0.732 	1.000 	0.930 	1 	0.647 	12 	20 	8 	7 	11 	4 	0.783 			Justin Herbert	287 	QB12	Saquon Barkley	239 	RB12	Garrett Wilson	208 	WR12	Jake Ferguson	109 	TE12
+	Justin Jefferson	Minnesota Vikings	WR	WR6	14.0 	225 	0 	0 	0 	0 	0 	0 	94 	6 	1,266 	79 	9 	0.674 	1.000 	0.940 	1 	0.641 	13 	9 	(4)	6 	5 	(1)	0.779 			Caleb Williams	285 	QB13	Breece Hall	233 	RB13	Tetairoa McMillan	201 	WR13	Mark Andrews	109 	TE13
+	Ashton Jeanty	Las Vegas Raiders	RB	RB8	15.2 	244 	0 	0 	0 	1,201 	75 	8 	60 	4 	377 	24 	2 	0.731 	1.000 	0.920 	1 	0.646 	14 	12 	(2)	8 	6 	(2)	0.778 			Kyler Murray	280 	QB14	Javonte Williams	222 	RB14	Malik Nabers	193 	WR14	Hunter Henry	108 	TE14
 	Brock Bowers	Las Vegas Raiders	TE	TE1	11.8 	188 	0 	0 	0 	0 	0 	0 	89 	6 	942 	59 	8 	0.564 	0.600 	0.594 	2 	1.000 	15 	17 	2 	1 	2 	1 	0.772 			Jared Goff	280 	QB15	Travis Etienne Jr.	217 	RB15	Chris Olave	185 	WR15	Juwan Johnson	101 	TE15
-	Omarion Hampton	Los Angeles Chargers	RB	RB9	15.2 	242 	0 	0 	0 	1,214 	76 	9 	50 	3 	297 	19 	2 	0.728 	1.000 	0.910 	1 	0.637 	16 	16 	0 	9 	9 	0 	0.769 			Jordan Love	278 	QB16	Josh Jacobs	214 	RB16	Terry McLaurin	182 	WR16	T.J. Hockenson	101 	TE16
-	George Pickens	Dallas Cowboys	WR	WR7	13.7 	219 	0 	0 	0 	0 	0 	0 	80 	5 	1,237 	77 	9 	0.658 	1.000 	0.930 	1 	0.605 	17 	26 	9 	7 	10 	3 	0.757 			Baker Mayfield	276 	QB17	Kyren Williams	210 	RB17	Tee Higgins	181 	WR17	AJ Barner	100 	TE17
-	Derrick Henry	Baltimore Ravens	RB	RB10	14.9 	239 	0 	0 	0 	1,350 	84 	14 	11 	1 	112 	7 	1 	0.718 	1.000 	0.900 	1 	0.614 	18 	22 	4 	10 	12 	2 	0.753 			Tyler Shough	275 	QB18	Jeremiyah Love	201 	RB18	DeVonta Smith	180 	WR18	Dalton Kincaid	95 	TE18
-	Nico Collins	Houston Texans	WR	WR8	13.7 	219 	0 	0 	0 	0 	0 	0 	82 	5 	1,295 	81 	8 	0.657 	1.000 	0.920 	1 	0.602 	19 	23 	4 	8 	8 	0 	0.751 			Bo Nix	275 	QB19	D'Andre Swift	196 	RB19	Zay Flowers	180 	WR19	Kenyon Sadiq	90 	TE19
-	Chase Brown	Cincinnati Bengals	RB	RB11	14.9 	239 	0 	0 	0 	963 	60 	7 	72 	5 	454 	28 	3 	0.717 	1.000 	0.890 	1 	0.613 	20 	19 	(1)	11 	10 	(1)	0.748 			Matthew Stafford	273 	QB20	Cam Skattebo	188 	RB20	Emeka Egbuka	180 	WR20	Dallas Goedert	86 	TE20
-	Josh Allen	Buffalo Bills	QB	QB1	20.8 	333 	3,283 	205 	24 	503 	31 	9 	0 	0 	0 	0 	0 	1.000 	0.500 	0.495 	2 	1.000 	21 	21 	0 	1 	1 	0 	0.748 			Sam Darnold	271 	QB21	Quinshon Judkins	184 	RB21	Davante Adams	179 	WR21	Oronde Gadsden II	86 	TE21
-	Saquon Barkley	Philadelphia Eagles	RB	RB12	14.9 	239 	0 	0 	0 	1,343 	84 	9 	33 	2 	247 	15 	2 	0.717 	1.000 	0.880 	1 	0.612 	22 	14 	(8)	12 	8 	(4)	0.743 			C.J. Stroud	268 	QB22	Chuba Hubbard	184 	RB22	Mike Evans	178 	WR22	Dalton Schultz	85 	TE22
+	Omarion Hampton	Los Angeles Chargers	RB	RB9	15.2 	242 	0 	0 	0 	1,214 	76 	9 	50 	3 	297 	19 	2 	0.728 	1.000 	0.910 	1 	0.638 	16 	16 	0 	9 	9 	0 	0.769 			Jordan Love	278 	QB16	Josh Jacobs	214 	RB16	Terry McLaurin	182 	WR16	T.J. Hockenson	101 	TE16
+	Chase Brown	Cincinnati Bengals	RB	RB10	15.0 	240 	0 	0 	0 	977 	61 	7 	72 	5 	454 	28 	3 	0.721 	1.000 	0.900 	1 	0.623 	17 	19 	2 	10 	10 	0 	0.758 			Baker Mayfield	276 	QB17	Kyren Williams	210 	RB17	Tee Higgins	181 	WR17	AJ Barner	100 	TE17
+	George Pickens	Dallas Cowboys	WR	WR7	13.7 	219 	0 	0 	0 	0 	0 	0 	80 	5 	1,237 	77 	9 	0.658 	1.000 	0.930 	1 	0.605 	18 	26 	8 	7 	10 	3 	0.757 			Tyler Shough	275 	QB18	Jeremiyah Love	201 	RB18	DeVonta Smith	180 	WR18	Dalton Kincaid	95 	TE18
+	Nico Collins	Houston Texans	WR	WR8	13.7 	219 	0 	0 	0 	0 	0 	0 	82 	5 	1,295 	81 	8 	0.657 	1.000 	0.920 	1 	0.602 	19 	23 	4 	8 	8 	0 	0.751 			Sam Darnold	275 	QB19	D'Andre Swift	196 	RB19	Zay Flowers	180 	WR19	Kenyon Sadiq	90 	TE19
+	Derrick Henry	Baltimore Ravens	RB	RB11	14.9 	239 	0 	0 	0 	1,350 	84 	14 	11 	1 	112 	7 	1 	0.718 	1.000 	0.890 	1 	0.616 	20 	22 	2 	11 	12 	1 	0.749 			Bo Nix	275 	QB20	Cam Skattebo	188 	RB20	Emeka Egbuka	180 	WR20	Dallas Goedert	86 	TE20
+	Josh Allen	Buffalo Bills	QB	QB1	20.8 	333 	3,283 	205 	24 	503 	31 	9 	0 	0 	0 	0 	0 	1.000 	0.500 	0.495 	2 	1.000 	21 	21 	0 	1 	1 	0 	0.748 			Matthew Stafford	273 	QB21	Quinshon Judkins	184 	RB21	Davante Adams	179 	WR21	Oronde Gadsden II	86 	TE21
+	Saquon Barkley	Philadelphia Eagles	RB	RB12	14.9 	239 	0 	0 	0 	1,343 	84 	9 	33 	2 	247 	15 	2 	0.717 	1.000 	0.880 	1 	0.614 	22 	14 	(8)	12 	8 	(4)	0.744 			C.J. Stroud	268 	QB22	Chuba Hubbard	184 	RB22	Mike Evans	178 	WR22	Dalton Schultz	85 	TE22
 	A.J. Brown	New England Patriots	WR	WR9	13.5 	217 	0 	0 	0 	0 	0 	0 	93 	6 	1,204 	75 	8 	0.651 	1.000 	0.910 	1 	0.588 	23 	25 	2 	9 	9 	0 	0.739 			Cam Ward	260 	QB23	Tony Pollard	181 	RB23	Carnell Tate	174 	WR23	Brenton Strange	84 	TE23
-	Breece Hall	New York Jets	RB	RB13	14.6 	233 	0 	0 	0 	1,123 	70 	8 	43 	3 	421 	26 	2 	0.700 	1.000 	0.870 	1 	0.573 	24 	29 	5 	13 	14 	1 	0.719 			Daniel Jones	254 	QB24	Bucky Irving	176 	RB24	Ladd McConkey	173 	WR24	Mike Gesicki	83 	TE24
-	Drake London	Atlanta Falcons	WR	WR10	13.2 	211 	0 	0 	0 	0 	0 	0 	89 	6 	1,208 	75 	8 	0.634 	1.000 	0.900 	1 	0.551 	25 	18 	(7)	10 	7 	(3)	0.717 			Bryce Young	253 	QB25	RJ Harvey	174 	RB25	Christian Watson	157 	WR25	Evan Engram	79 	TE25
-	Rashee Rice	Kansas City Chiefs	WR	WR11	13.1 	210 	0 	0 	0 	0 	0 	0 	101 	6 	1,088 	68 	9 	0.631 	1.000 	0.890 	1 	0.543 	26 	30 	4 	11 	13 	2 	0.708 			Malik Willis	252 	QB26	David Montgomery	172 	RB26	DJ Moore	157 	WR26	Cade Otton	70 	TE26
-	Trey McBride	Arizona Cardinals	TE	TE2	10.9 	174 	0 	0 	0 	0 	0 	0 	89 	6 	873 	55 	7 	0.522 	0.600 	0.586 	2 	0.854 	27 	15 	(12)	2 	1 	(1)	0.697 			Shedeur Sanders	245 	QB27	Jaylen Warren	168 	RB27	Jaylen Waddle	156 	WR27	Isaiah Likely	66 	TE27
-	Garrett Wilson	New York Jets	WR	WR12	13.0 	208 	0 	0 	0 	0 	0 	0 	101 	6 	1,112 	69 	8 	0.624 	1.000 	0.880 	1 	0.527 	28 	43 	15 	12 	19 	7 	0.696 			Aaron Rodgers	238 	QB28	TreVeyon Henderson	159 	RB28	Jordyn Tyson	155 	WR28	Colby Parkinson	66 	TE28
-	Javonte Williams	Dallas Cowboys	RB	RB14	13.9 	222 	0 	0 	0 	871 	54 	8 	82 	5 	319 	20 	2 	0.668 	1.000 	0.860 	1 	0.500 	29 	33 	4 	14 	17 	3 	0.679 			Fernando Mendoza	238 	QB29	Bhayshul Tuten	158 	RB29	Luther Burden III	155 	WR29	Theo Johnson	66 	TE29
-	Tetairoa McMillan	Carolina Panthers	WR	WR13	12.6 	201 	0 	0 	0 	0 	0 	0 	80 	5 	1,156 	72 	8 	0.603 	1.000 	0.870 	1 	0.480 	30 	40 	10 	13 	18 	5 	0.668 			Jacoby Brissett	236 	QB30	Rico Dowdle	156 	RB30	Rome Odunze	153 	WR30	Pat Freiermuth	64 	TE30
-	Travis Etienne Jr.	New Orleans Saints	RB	RB15	13.6 	217 	0 	0 	0 	902 	56 	6 	53 	3 	428 	27 	3 	0.652 	1.000 	0.850 	1 	0.465 	31 	32 	1 	15 	16 	1 	0.657 			Geno Smith	225 	QB31	Rhamondre Stevenson	149 	RB31	Brian Thomas Jr.	152 	WR31	Greg Dulcich	62 	TE31
-	Colston Loveland	Chicago Bears	TE	TE3	10.4 	167 	0 	0 	0 	0 	0 	0 	75 	5 	917 	57 	6 	0.500 	0.600 	0.578 	2 	0.780 	32 	35 	3 	3 	3 	0 	0.657 			Michael Penix Jr.	221 	QB32	Jadarian Price	145 	RB32	DK Metcalf	151 	WR32	Tommy Tremble	58 	TE32
-	Josh Jacobs	Green Bay Packers	RB	RB16	13.4 	214 	0 	0 	0 	1,036 	65 	10 	33 	2 	258 	16 	1 	0.643 	1.000 	0.840 	1 	0.444 	33 	36 	3 	16 	18 	2 	0.642 				-	-	Kenneth Gainwell	139 	RB33	Parker Washington	151 	WR33	Eli Stowers	50 	TE33
-	Malik Nabers	New York Giants	WR	WR14	12.0 	193 	0 	0 	0 	0 	0 	0 	73 	5 	1,105 	69 	8 	0.578 	1.000 	0.860 	1 	0.423 	34 	28 	(6)	14 	12 	(2)	0.635 				-	-	Aaron Jones Sr.	132 	RB34	Quentin Johnston	150 	WR34	David Njoku	46 	TE34
+	Breece Hall	New York Jets	RB	RB13	14.6 	233 	0 	0 	0 	1,123 	70 	8 	43 	3 	421 	26 	2 	0.700 	1.000 	0.870 	1 	0.574 	24 	29 	5 	13 	14 	1 	0.720 			Daniel Jones	254 	QB24	Jadarian Price	180 	RB24	Ladd McConkey	173 	WR24	Mike Gesicki	83 	TE24
+	Drake London	Atlanta Falcons	WR	WR10	13.2 	211 	0 	0 	0 	0 	0 	0 	89 	6 	1,208 	75 	8 	0.634 	1.000 	0.900 	1 	0.551 	25 	18 	(7)	10 	7 	(3)	0.716 			Bryce Young	253 	QB25	Bucky Irving	176 	RB25	Christian Watson	157 	WR25	Evan Engram	79 	TE25
+	Rashee Rice	Kansas City Chiefs	WR	WR11	13.1 	210 	0 	0 	0 	0 	0 	0 	101 	6 	1,088 	68 	9 	0.631 	1.000 	0.890 	1 	0.543 	26 	30 	4 	11 	13 	2 	0.708 			Malik Willis	252 	QB26	RJ Harvey	174 	RB26	DJ Moore	157 	WR26	Cade Otton	70 	TE26
+	Trey McBride	Arizona Cardinals	TE	TE2	10.9 	174 	0 	0 	0 	0 	0 	0 	89 	6 	873 	55 	7 	0.522 	0.600 	0.586 	2 	0.854 	27 	15 	(12)	2 	1 	(1)	0.697 			Shedeur Sanders	245 	QB27	David Montgomery	172 	RB27	Jaylen Waddle	156 	WR27	Isaiah Likely	66 	TE27
+	Garrett Wilson	New York Jets	WR	WR12	13.0 	208 	0 	0 	0 	0 	0 	0 	101 	6 	1,112 	69 	8 	0.624 	1.000 	0.880 	1 	0.527 	28 	43 	15 	12 	19 	7 	0.696 			Aaron Rodgers	238 	QB28	Jaylen Warren	168 	RB28	Jordyn Tyson	155 	WR28	Colby Parkinson	66 	TE28
+	Javonte Williams	Dallas Cowboys	RB	RB14	13.9 	222 	0 	0 	0 	871 	54 	8 	82 	5 	319 	20 	2 	0.668 	1.000 	0.860 	1 	0.501 	29 	33 	4 	14 	17 	3 	0.679 			Fernando Mendoza	238 	QB29	TreVeyon Henderson	159 	RB29	Luther Burden III	155 	WR29	Theo Johnson	66 	TE29
+	Tetairoa McMillan	Carolina Panthers	WR	WR13	12.6 	201 	0 	0 	0 	0 	0 	0 	80 	5 	1,156 	72 	8 	0.603 	1.000 	0.870 	1 	0.480 	30 	40 	10 	13 	18 	5 	0.668 			Jacoby Brissett	236 	QB30	Bhayshul Tuten	158 	RB30	Rome Odunze	153 	WR30	Pat Freiermuth	64 	TE30
+	Travis Etienne Jr.	New Orleans Saints	RB	RB15	13.6 	217 	0 	0 	0 	902 	56 	6 	53 	3 	428 	27 	3 	0.652 	1.000 	0.850 	1 	0.467 	31 	32 	1 	15 	16 	1 	0.658 			Geno Smith	225 	QB31	Rico Dowdle	156 	RB31	Brian Thomas Jr.	152 	WR31	Greg Dulcich	62 	TE31
+	Colston Loveland	Chicago Bears	TE	TE3	10.4 	167 	0 	0 	0 	0 	0 	0 	75 	5 	917 	57 	6 	0.500 	0.600 	0.578 	2 	0.780 	32 	35 	3 	3 	3 	0 	0.657 			Michael Penix Jr.	221 	QB32	Rhamondre Stevenson	149 	RB32	DK Metcalf	151 	WR32	Tommy Tremble	58 	TE32
+	Josh Jacobs	Green Bay Packers	RB	RB16	13.4 	214 	0 	0 	0 	1,036 	65 	10 	33 	2 	258 	16 	1 	0.643 	1.000 	0.840 	1 	0.446 	33 	36 	3 	16 	18 	2 	0.643 				-	-	Kenneth Gainwell	139 	RB33	Parker Washington	151 	WR33	Eli Stowers	50 	TE33
+	Malik Nabers	New York Giants	WR	WR14	12.0 	193 	0 	0 	0 	0 	0 	0 	73 	5 	1,105 	69 	8 	0.578 	1.000 	0.860 	1 	0.422 	34 	28 	(6)	14 	12 	(2)	0.635 				-	-	Aaron Jones Sr.	132 	RB34	Quentin Johnston	150 	WR34	David Njoku	46 	TE34
 	Tyler Warren	Indianapolis Colts	TE	TE4	10.0 	160 	0 	0 	0 	18 	1 	1 	76 	5 	822 	51 	6 	0.482 	0.600 	0.568 	2 	0.718 	35 	50 	15 	4 	4 	0 	0.623 				-	-	Rachaad White	126 	RB35	Jameson Williams	150 	WR35	Jake Tonges	46 	TE35
-	Kyren Williams	Los Angeles Rams	RB	RB17	13.1 	210 	0 	0 	0 	1,032 	64 	9 	34 	2 	262 	16 	2 	0.629 	1.000 	0.830 	1 	0.412 	36 	31 	(5)	17 	15 	(2)	0.622 				-	-	Zach Charbonnet	122 	RB36	Courtland Sutton	142 	WR36	Terrance Ferguson	34 	TE36
-	Chris Olave	New Orleans Saints	WR	WR15	11.6 	185 	0 	0 	0 	0 	0 	0 	83 	5 	964 	60 	8 	0.556 	1.000 	0.850 	1 	0.371 	37 	27 	(10)	15 	11 	(4)	0.605 				-	-	Jacory Croskey-Merritt	119 	RB37	Marvin Harrison Jr.	140 	WR37	Elijah Arroyo	33 	TE37
-	Terry McLaurin	Washington Commanders	WR	WR16	11.4 	182 	0 	0 	0 	0 	0 	0 	70 	4 	1,078 	67 	7 	0.547 	1.000 	0.840 	1 	0.350 	38 	54 	16 	16 	24 	8 	0.590 				-	-	J.K. Dobbins	114 	RB38	Wan'Dale Robinson	139 	WR38	Dawson Knox	29 	TE38
-	Jeremiyah Love	Arizona Cardinals	RB	RB18	12.6 	201 	0 	0 	0 	891 	56 	6 	43 	3 	388 	24 	3 	0.605 	1.000 	0.820 	1 	0.356 	39 	24 	(15)	18 	13 	(5)	0.590 				-	-	Blake Corum	110 	RB39	Jakobi Meyers	139 	WR39	Cole Kmet	22 	TE39
-	Tee Higgins	Cincinnati Bengals	WR	WR17	11.3 	181 	0 	0 	0 	0 	0 	0 	69 	4 	991 	62 	8 	0.543 	1.000 	0.830 	1 	0.342 	40 	37 	(3)	17 	15 	(2)	0.582 				-	-	Kyle Monangai	109 	RB40	Michael Pittman Jr.	138 	WR40	Mason Taylor	22 	TE40
-	Lamar Jackson	Baltimore Ravens	QB	QB2	19.3 	309 	2,810 	176 	22 	783 	49 	5 	0 	0 	0 	0 	0 	0.928 	0.500 	0.489 	1 	0.595 	41 	42 	1 	2 	2 	0 	0.576 				-	-	Jordan Mason	108 	RB41	Jordan Addison	136 	WR41		-	-
-	DeVonta Smith	Philadelphia Eagles	WR	WR18	11.3 	180 	0 	0 	0 	0 	0 	0 	78 	5 	1,020 	64 	7 	0.542 	1.000 	0.820 	1 	0.338 	42 	34 	(8)	18 	14 	(4)	0.575 				-	-	Jonathon Brooks	106 	RB42	Alec Pierce	136 	WR42		-	-
-	Zay Flowers	Baltimore Ravens	WR	WR19	11.2 	180 	0 	0 	0 	54 	3 	0 	72 	4 	1,011 	63 	6 	0.540 	1.000 	0.810 	1 	0.334 	43 	39 	(4)	19 	17 	(2)	0.569 				-	-	Woody Marks	91 	RB43	Josh Downs	133 	WR43		-	-
-	D'Andre Swift	Chicago Bears	RB	RB19	12.3 	196 	0 	0 	0 	917 	57 	9 	27 	2 	238 	15 	2 	0.589 	1.000 	0.810 	1 	0.320 	44 	60 	16 	19 	25 	6 	0.567 				-	-	Dylan Sampson	75 	RB44	Ricky Pearsall	132 	WR44		-	-
-	Emeka Egbuka	Tampa Bay Buccaneers	WR	WR20	11.2 	180 	0 	0 	0 	0 	0 	0 	67 	4 	997 	62 	8 	0.539 	1.000 	0.800 	1 	0.331 	45 	38 	(7)	20 	16 	(4)	0.563 				-	-	Isiah Pacheco	69 	RB45	Makai Lemon	129 	WR45		-	-
-	Joe Burrow	Cincinnati Bengals	QB	QB3	19.2 	308 	4,129 	258 	34 	41 	3 	0 	0 	0 	0 	0 	0 	0.923 	0.500 	0.483 	1 	0.566 	46 	48 	2 	3 	3 	0 	0.560 				-	-	Chris Rodriguez Jr.	68 	RB46	KC Concepcion	128 	WR46		-	-
+	Kyren Williams	Los Angeles Rams	RB	RB17	13.1 	210 	0 	0 	0 	1,032 	64 	9 	34 	2 	262 	16 	2 	0.629 	1.000 	0.830 	1 	0.414 	36 	31 	(5)	17 	15 	(2)	0.623 				-	-	Jacory Croskey-Merritt	119 	RB36	Courtland Sutton	142 	WR36	Terrance Ferguson	34 	TE36
+	Chris Olave	New Orleans Saints	WR	WR15	11.6 	185 	0 	0 	0 	0 	0 	0 	83 	5 	964 	60 	8 	0.556 	1.000 	0.850 	1 	0.371 	37 	27 	(10)	15 	11 	(4)	0.605 				-	-	J.K. Dobbins	114 	RB37	Marvin Harrison Jr.	140 	WR37	Elijah Arroyo	33 	TE37
+	Jeremiyah Love	Arizona Cardinals	RB	RB18	12.6 	201 	0 	0 	0 	891 	56 	6 	43 	3 	388 	24 	3 	0.605 	1.000 	0.820 	1 	0.358 	38 	24 	(14)	18 	13 	(5)	0.591 				-	-	Blake Corum	110 	RB38	Wan'Dale Robinson	139 	WR38	Dawson Knox	29 	TE38
+	Terry McLaurin	Washington Commanders	WR	WR16	11.4 	182 	0 	0 	0 	0 	0 	0 	70 	4 	1,078 	67 	7 	0.547 	1.000 	0.840 	1 	0.350 	39 	54 	15 	16 	24 	8 	0.590 				-	-	Kyle Monangai	109 	RB39	Jakobi Meyers	139 	WR39	Cole Kmet	22 	TE39
+	Tee Higgins	Cincinnati Bengals	WR	WR17	11.3 	181 	0 	0 	0 	0 	0 	0 	69 	4 	991 	62 	8 	0.543 	1.000 	0.830 	1 	0.342 	40 	37 	(3)	17 	15 	(2)	0.582 				-	-	Jordan Mason	108 	RB40	Michael Pittman Jr.	138 	WR40	Mason Taylor	22 	TE40
+	DeVonta Smith	Philadelphia Eagles	WR	WR18	11.3 	180 	0 	0 	0 	0 	0 	0 	78 	5 	1,020 	64 	7 	0.542 	1.000 	0.820 	1 	0.338 	41 	34 	(7)	18 	14 	(4)	0.575 				-	-	Jonathon Brooks	106 	RB41	Jordan Addison	136 	WR41		-	-
+	Lamar Jackson	Baltimore Ravens	QB	QB2	19.3 	309 	2,810 	176 	22 	783 	49 	5 	0 	0 	0 	0 	0 	0.928 	0.500 	0.489 	1 	0.594 	42 	42 	0 	2 	2 	0 	0.575 				-	-	Woody Marks	91 	RB42	Alec Pierce	136 	WR42		-	-
+	Zay Flowers	Baltimore Ravens	WR	WR19	11.2 	180 	0 	0 	0 	54 	3 	0 	72 	4 	1,011 	63 	6 	0.540 	1.000 	0.810 	1 	0.334 	43 	39 	(4)	19 	17 	(2)	0.569 				-	-	Dylan Sampson	75 	RB43	Josh Downs	133 	WR43		-	-
+	D'Andre Swift	Chicago Bears	RB	RB19	12.3 	196 	0 	0 	0 	917 	57 	9 	27 	2 	238 	15 	2 	0.589 	1.000 	0.810 	1 	0.322 	44 	60 	16 	19 	25 	6 	0.568 				-	-	Isiah Pacheco	69 	RB44	Ricky Pearsall	132 	WR44		-	-
+	Emeka Egbuka	Tampa Bay Buccaneers	WR	WR20	11.2 	180 	0 	0 	0 	0 	0 	0 	67 	4 	997 	62 	8 	0.539 	1.000 	0.800 	1 	0.331 	45 	38 	(7)	20 	16 	(4)	0.563 				-	-	Chris Rodriguez Jr.	68 	RB45	Makai Lemon	129 	WR45		-	-
+	Joe Burrow	Cincinnati Bengals	QB	QB3	19.2 	308 	4,129 	258 	34 	41 	3 	0 	0 	0 	0 	0 	0 	0.923 	0.500 	0.483 	1 	0.565 	46 	48 	2 	3 	3 	0 	0.560 				-	-	Zach Charbonnet	68 	RB46	KC Concepcion	128 	WR46		-	-
 	Davante Adams	Los Angeles Rams	WR	WR21	11.2 	179 	0 	0 	0 	0 	0 	0 	68 	4 	898 	56 	9 	0.538 	1.000 	0.790 	1 	0.330 	47 	53 	6 	21 	23 	2 	0.558 				-	-	Tyrone Tracy Jr.	68 	RB47	Jerry Jeudy	122 	WR47		-	-
 	Harold Fannin Jr.	Cleveland Browns	TE	TE5	9.2 	148 	0 	0 	0 	0 	0 	0 	71 	4 	727 	45 	7 	0.443 	0.600 	0.559 	1 	0.586 	48 	66 	18 	5 	5 	0 	0.554 				-	-	Tyler Allgeier	67 	RB48	Xavier Worthy	115 	WR48		-	-
 	Mike Evans	San Francisco 49ers	WR	WR22	11.1 	178 	0 	0 	0 	0 	0 	0 	75 	5 	925 	58 	8 	0.534 	1.000 	0.780 	1 	0.321 	49 	55 	6 	22 	25 	3 	0.549 				-	-	Kimani Vidal	65 	RB49	Chris Godwin Jr.	114 	WR49		-	-
-	Cam Skattebo	New York Giants	RB	RB20	11.8 	188 	0 	0 	0 	910 	57 	9 	26 	2 	221 	14 	2 	0.565 	1.000 	0.800 	1 	0.266 	50 	41 	(9)	20 	19 	(1)	0.536 				-	-	Brian Robinson Jr.	60 	RB50	Tre Tucker	113 	WR50		-	-
+	Cam Skattebo	New York Giants	RB	RB20	11.8 	188 	0 	0 	0 	910 	57 	9 	26 	2 	221 	14 	2 	0.565 	1.000 	0.800 	1 	0.269 	50 	41 	(9)	20 	19 	(1)	0.537 				-	-	Brian Robinson Jr.	60 	RB50	Tre Tucker	113 	WR50		-	-
 	Carnell Tate	Tennessee Titans	WR	WR23	10.9 	174 	0 	0 	0 	0 	0 	0 	76 	5 	928 	58 	7 	0.521 	1.000 	0.770 	1 	0.291 	51 	68 	17 	23 	30 	7 	0.529 				-	-	Alvin Kamara	58 	RB51	Jayden Higgins	113 	WR51		-	-
-	Tucker Kraft	Green Bay Packers	TE	TE6	8.9 	142 	0 	0 	0 	0 	0 	0 	52 	3 	803 	50 	6 	0.427 	0.600 	0.548 	1 	0.531 	52 	73 	21 	6 	6 	0 	0.523 				-	-	Samaje Perine	55 	RB52	Michael Wilson	110 	WR52		-	-
-	Ladd McConkey	Los Angeles Chargers	WR	WR24	10.8 	173 	0 	0 	0 	0 	0 	0 	77 	5 	924 	58 	7 	0.518 	1.000 	0.760 	1 	0.284 	53 	45 	(8)	24 	21 	(3)	0.522 				-	-	Emmett Johnson	53 	RB53	Jalen Coker	110 	WR53		-	-
-	Quinshon Judkins	Cleveland Browns	RB	RB21	11.5 	184 	0 	0 	0 	995 	62 	7 	30 	2 	198 	12 	1 	0.553 	1.000 	0.790 	0 	0.238 	54 	46 	(8)	21 	20 	(1)	0.518 				-	-	Justice Hill	53 	RB54	Romeo Doubs	110 	WR54		-	-
-	Chuba Hubbard	Carolina Panthers	RB	RB22	11.5 	184 	0 	0 	0 	994 	62 	6 	30 	2 	225 	14 	2 	0.551 	1.000 	0.780 	0 	0.235 	55 	71 	16 	22 	27 	5 	0.512 				-	-	Nicholas Singleton	51 	RB55	Rashid Shaheed	107 	WR55		-	-
-	Tony Pollard	Tennessee Titans	RB	RB23	11.3 	181 	0 	0 	0 	1,002 	63 	8 	28 	2 	172 	11 	1 	0.544 	1.000 	0.770 	0 	0.218 	56 	85 	29 	23 	31 	8 	0.499 				-	-	Tank Bigsby	51 	RB56	Khalil Shakir	105 	WR56		-	-
-	Jalen Hurts	Philadelphia Eagles	QB	QB4	18.7 	299 	3,090 	193 	23 	470 	29 	6 	0 	0 	0 	0 	0 	0.898 	0.500 	0.477 	1 	0.424 	57 	65 	8 	4 	7 	3 	0.498 				-	-	Mike Washington Jr.	49 	RB57	Jayden Reed	102 	WR57		-	-
-	Jayden Daniels	Washington Commanders	QB	QB5	18.6 	298 	3,267 	204 	22 	581 	36 	4 	0 	0 	0 	0 	0 	0.895 	0.500 	0.471 	1 	0.407 	58 	61 	3 	5 	5 	0 	0.488 				-	-	Ollie Gordon II	49 	RB58	Omar Cooper Jr.	99 	WR58		-	-
-	Dak Prescott	Dallas Cowboys	QB	QB6	18.6 	297 	3,990 	249 	30 	118 	7 	1 	0 	0 	0 	0 	0 	0.892 	0.500 	0.464 	1 	0.388 	59 	70 	11 	6 	8 	2 	0.476 				-	-	Jaydon Blue	47 	RB59	Matthew Golden	95 	WR59		-	-
-	Bucky Irving	Tampa Bay Buccaneers	RB	RB24	11.0 	176 	0 	0 	0 	934 	58 	6 	24 	2 	225 	14 	2 	0.528 	1.000 	0.760 	0 	0.181 	60 	52 	(8)	24 	23 	(1)	0.476 				-	-	Braelon Allen	45 	RB60	Jack Bech	89 	WR60		-	-
-	Christian Watson	Green Bay Packers	WR	WR25	9.8 	157 	0 	0 	0 	0 	0 	0 	51 	3 	901 	56 	7 	0.472 	1.000 	0.750 	0 	0.179 	61 	69 	8 	25 	31 	6 	0.465 				-	-	Adam Randall	42 	RB61	Malik Washington	88 	WR61		-	-
-	RJ Harvey	Denver Broncos	RB	RB25	10.8 	174 	0 	0 	0 	581 	36 	5 	50 	3 	382 	24 	3 	0.521 	1.000 	0.750 	0 	0.166 	62 	76 	14 	25 	29 	4 	0.464 				-	-		-	-	Antonio Williams	84 	WR62		-	-
-	Trevor Lawrence	Jacksonville Jaguars	QB	QB7	18.5 	295 	3,631 	227 	26 	294 	18 	3 	0 	0 	0 	0 	0 	0.886 	0.500 	0.457 	1 	0.359 	63 	81 	18 	7 	9 	2 	0.461 				-	-		-	-	Chris Bell	79 	WR63		-	-
-	DJ Moore	Buffalo Bills	WR	WR26	9.8 	157 	0 	0 	0 	0 	0 	0 	65 	4 	887 	55 	6 	0.471 	1.000 	0.740 	0 	0.176 	64 	44 	(20)	26 	20 	(6)	0.459 				-	-		-	-	Calvin Ridley	79 	WR64		-	-
-	Drake Maye	New England Patriots	QB	QB8	18.4 	295 	3,648 	228 	25 	344 	22 	2 	0 	0 	0 	0 	0 	0.885 	0.500 	0.451 	1 	0.353 	65 	58 	(7)	8 	4 	(4)	0.455 				-	-		-	-	Keon Coleman	75 	WR65		-	-
-	David Montgomery	Houston Texans	RB	RB26	10.8 	172 	0 	0 	0 	873 	55 	9 	22 	1 	180 	11 	1 	0.517 	1.000 	0.740 	0 	0.156 	66 	49 	(17)	26 	21 	(5)	0.455 				-	-		-	-	Jauan Jennings	73 	WR66		-	-
+	Tucker Kraft	Green Bay Packers	TE	TE6	8.9 	142 	0 	0 	0 	0 	0 	0 	52 	3 	803 	50 	6 	0.427 	0.600 	0.548 	1 	0.531 	52 	73 	21 	6 	6 	0 	0.523 				-	-	Emmett Johnson	53 	RB52	Michael Wilson	110 	WR52		-	-
+	Ladd McConkey	Los Angeles Chargers	WR	WR24	10.8 	173 	0 	0 	0 	0 	0 	0 	77 	5 	924 	58 	7 	0.518 	1.000 	0.760 	1 	0.284 	53 	45 	(8)	24 	21 	(3)	0.522 				-	-	Justice Hill	53 	RB53	Jalen Coker	110 	WR53		-	-
+	Quinshon Judkins	Cleveland Browns	RB	RB21	11.5 	184 	0 	0 	0 	995 	62 	7 	30 	2 	198 	12 	1 	0.553 	1.000 	0.790 	0 	0.241 	54 	46 	(8)	21 	20 	(1)	0.519 				-	-	Nicholas Singleton	51 	RB54	Romeo Doubs	110 	WR54		-	-
+	Chuba Hubbard	Carolina Panthers	RB	RB22	11.5 	184 	0 	0 	0 	994 	62 	6 	30 	2 	225 	14 	2 	0.551 	1.000 	0.780 	0 	0.238 	55 	71 	16 	22 	27 	5 	0.513 				-	-	Tank Bigsby	51 	RB55	Rashid Shaheed	107 	WR55		-	-
+	Tony Pollard	Tennessee Titans	RB	RB23	11.3 	181 	0 	0 	0 	1,002 	63 	8 	28 	2 	172 	11 	1 	0.544 	1.000 	0.770 	0 	0.221 	56 	85 	29 	23 	31 	8 	0.500 				-	-	Mike Washington Jr.	49 	RB56	Khalil Shakir	105 	WR56		-	-
+	Jalen Hurts	Philadelphia Eagles	QB	QB4	18.7 	299 	3,090 	193 	23 	470 	29 	6 	0 	0 	0 	0 	0 	0.898 	0.500 	0.477 	1 	0.423 	57 	65 	8 	4 	7 	3 	0.497 				-	-	Ollie Gordon II	49 	RB57	Jayden Reed	102 	WR57		-	-
+	Jadarian Price	Seattle Seahawks	RB	RB24	11.3 	180 	0 	0 	0 	920 	57 	7 	25 	2 	225 	14 	2 	0.540 	1.000 	0.760 	0 	0.212 	58 	56 	(2)	24 	24 	0 	0.492 				-	-	Jaydon Blue	47 	RB58	Omar Cooper Jr.	99 	WR58		-	-
+	Jayden Daniels	Washington Commanders	QB	QB5	18.6 	298 	3,267 	204 	22 	581 	36 	4 	0 	0 	0 	0 	0 	0.895 	0.500 	0.471 	1 	0.406 	59 	61 	2 	5 	5 	0 	0.487 				-	-	Braelon Allen	45 	RB59	Matthew Golden	95 	WR59		-	-
+	Dak Prescott	Dallas Cowboys	QB	QB6	18.6 	297 	3,990 	249 	30 	118 	7 	1 	0 	0 	0 	0 	0 	0.892 	0.500 	0.464 	1 	0.387 	60 	70 	10 	6 	8 	2 	0.476 				-	-	Adam Randall	42 	RB60	Jack Bech	89 	WR60		-	-
+	Bucky Irving	Tampa Bay Buccaneers	RB	RB25	11.0 	176 	0 	0 	0 	934 	58 	6 	24 	2 	225 	14 	2 	0.528 	1.000 	0.750 	0 	0.184 	61 	52 	(9)	25 	23 	(2)	0.473 				-	-	Samaje Perine	42 	RB61	Malik Washington	88 	WR61		-	-
+	Christian Watson	Green Bay Packers	WR	WR25	9.8 	157 	0 	0 	0 	0 	0 	0 	51 	3 	901 	56 	7 	0.472 	1.000 	0.750 	0 	0.178 	62 	69 	7 	25 	31 	6 	0.465 				-	-		-	-	Antonio Williams	84 	WR62		-	-
+	RJ Harvey	Denver Broncos	RB	RB26	10.8 	174 	0 	0 	0 	581 	36 	5 	50 	3 	382 	24 	3 	0.521 	1.000 	0.740 	0 	0.169 	63 	76 	13 	26 	29 	3 	0.461 				-	-		-	-	Chris Bell	79 	WR63		-	-
+	Trevor Lawrence	Jacksonville Jaguars	QB	QB7	18.5 	295 	3,631 	227 	26 	294 	18 	3 	0 	0 	0 	0 	0 	0.886 	0.500 	0.457 	1 	0.357 	64 	81 	17 	7 	9 	2 	0.460 				-	-		-	-	Calvin Ridley	79 	WR64		-	-
+	DJ Moore	Buffalo Bills	WR	WR26	9.8 	157 	0 	0 	0 	0 	0 	0 	65 	4 	887 	55 	6 	0.471 	1.000 	0.740 	0 	0.176 	65 	44 	(21)	26 	20 	(6)	0.459 				-	-		-	-	Keon Coleman	75 	WR65		-	-
+	Drake Maye	New England Patriots	QB	QB8	18.4 	295 	3,648 	228 	25 	344 	22 	2 	0 	0 	0 	0 	0 	0.885 	0.500 	0.451 	1 	0.351 	66 	58 	(8)	8 	4 	(4)	0.454 				-	-		-	-	Jauan Jennings	73 	WR66		-	-
 	Jaylen Waddle	Denver Broncos	WR	WR27	9.8 	156 	0 	0 	0 	0 	0 	0 	61 	4 	868 	54 	6 	0.469 	1.000 	0.730 	0 	0.170 	67 	59 	(8)	27 	27 	0 	0.452 				-	-		-	-	Denzel Boston	70 	WR67		-	-
-	Jordyn Tyson	New Orleans Saints	WR	WR28	9.7 	155 	0 	0 	0 	0 	0 	0 	70 	4 	821 	51 	6 	0.465 	1.000 	0.720 	0 	0.163 	68 	75 	7 	28 	33 	5 	0.444 				-	-		-	-	Jalen McMillan	65 	WR68		-	-
-	Kyle Pitts Sr.	Atlanta Falcons	TE	TE7	7.9 	127 	0 	0 	0 	0 	0 	0 	65 	4 	681 	43 	4 	0.382 	0.600 	0.538 	1 	0.377 	69 	80 	11 	7 	8 	1 	0.442 				-	-		-	-	Rashod Bateman	63 	WR69		-	-
-	Luther Burden III	Chicago Bears	WR	WR29	9.7 	155 	0 	0 	0 	20 	1 	0 	61 	4 	849 	53 	6 	0.465 	1.000 	0.710 	0 	0.162 	70 	47 	(23)	29 	22 	(7)	0.439 				-	-		-	-	Malachi Fields	54 	WR70		-	-
-	Jaylen Warren	Pittsburgh Steelers	RB	RB27	10.5 	168 	0 	0 	0 	699 	44 	6 	40 	3 	333 	21 	2 	0.504 	1.000 	0.730 	0 	0.126 	71 	82 	11 	27 	30 	3 	0.436 				-	-		-	-	Troy Franklin	54 	WR71		-	-
-	Brock Purdy	San Francisco 49ers	QB	QB9	18.3 	292 	3,844 	240 	29 	110 	7 	2 	0 	0 	0 	0 	0 	0.878 	0.500 	0.444 	1 	0.309 	72 	95 	23 	9 	14 	5 	0.433 				-	-		-	-	Jaylin Lane	50 	WR72		-	-
-	Rome Odunze	Chicago Bears	WR	WR30	9.5 	153 	0 	0 	0 	20 	1 	0 	59 	4 	883 	55 	6 	0.458 	1.000 	0.700 	0 	0.147 	73 	62 	(11)	30 	28 	(2)	0.427 				-	-		-	-	Darnell Mooney	48 	WR73		-	-
-	Brian Thomas Jr.	Jacksonville Jaguars	WR	WR31	9.5 	152 	0 	0 	0 	16 	1 	0 	59 	4 	871 	54 	6 	0.457 	1.000 	0.690 	0 	0.143 	74 	67 	(7)	31 	29 	(2)	0.421 				-	-		-	-	Andrei Iosivas	46 	WR74		-	-
-	Sam LaPorta	Detroit Lions	TE	TE8	7.7 	123 	0 	0 	0 	0 	0 	0 	51 	3 	627 	39 	6 	0.369 	0.600 	0.527 	1 	0.332 	75 	78 	3 	8 	7 	(1)	0.416 				-	-		-	-	Kayshon Boutte	44 	WR75		-	-
-	DK Metcalf	Pittsburgh Steelers	WR	WR32	9.4 	151 	0 	0 	0 	0 	0 	0 	58 	4 	832 	52 	6 	0.452 	1.000 	0.680 	0 	0.133 	76 	84 	8 	32 	36 	4 	0.411 				-	-		-	-	Tory Horton	40 	WR76		-	-
-	Parker Washington	Jacksonville Jaguars	WR	WR33	9.4 	151 	0 	0 	0 	0 	0 	0 	57 	4 	835 	52 	6 	0.452 	1.000 	0.670 	0 	0.132 	77 	79 	2 	33 	35 	2 	0.406 				-	-		-	-	Isaac TeSlaa	37 	WR77		-	-
-	Quentin Johnston	Los Angeles Chargers	WR	WR34	9.4 	150 	0 	0 	0 	0 	0 	0 	53 	3 	759 	47 	8 	0.452 	1.000 	0.660 	0 	0.131 	78 	110 	32 	34 	47 	13 	0.401 				-	-		-	-	Olamide Zaccheaus	36 	WR78		-	-
-	TreVeyon Henderson	New England Patriots	RB	RB28	9.9 	159 	0 	0 	0 	655 	41 	6 	41 	3 	255 	16 	2 	0.476 	1.000 	0.720 	0 	0.063 	79 	51 	(28)	28 	22 	(6)	0.400 				-	-		-	-	Ja'Kobi Lane	35 	WR79		-	-
-	Patrick Mahomes II	Kansas City Chiefs	QB	QB10	18.0 	288 	3,354 	210 	26 	355 	22 	3 	0 	0 	0 	0 	0 	0.864 	0.500 	0.437 	1 	0.235 	80 	92 	12 	10 	13 	3 	0.399 				-	-		-	-	Jordan Whittington	34 	WR80		-	-
-	Jaxson Dart	New York Giants	QB	QB11	18.0 	288 	3,306 	207 	21 	446 	28 	4 	0 	0 	0 	0 	0 	0.864 	0.500 	0.430 	1 	0.234 	81 	87 	6 	11 	11 	0 	0.395 				-	-		-	-	Devaughn Vele	32 	WR81		-	-
-	Jameson Williams	Detroit Lions	WR	WR35	9.3 	150 	0 	0 	0 	16 	1 	0 	52 	3 	902 	56 	5 	0.449 	1.000 	0.650 	0 	0.125 	82 	57 	(25)	35 	26 	(9)	0.394 				-	-		-	-	Jahan Dotson	31 	WR82		-	-
-	Bhayshul Tuten	Jacksonville Jaguars	RB	RB29	9.9 	158 	0 	0 	0 	881 	55 	6 	23 	1 	182 	11 	1 	0.474 	1.000 	0.710 	0 	0.059 	83 	63 	(20)	29 	26 	(3)	0.393 				-	-		-	-	Kendrick Bourne	23 	WR83		-	-
-	Rico Dowdle	Pittsburgh Steelers	RB	RB30	9.8 	156 	0 	0 	0 	896 	56 	6 	22 	1 	166 	10 	0 	0.469 	1.000 	0.700 	0 	0.047 	84 	88 	4 	30 	32 	2 	0.383 				-	-		-	-		-	-		-	-
-	Justin Herbert	Los Angeles Chargers	QB	QB12	17.9 	287 	3,300 	206 	27 	344 	21 	2 	0 	0 	0 	0 	0 	0.861 	0.500 	0.423 	0 	0.213 	85 	83 	(2)	12 	10 	(2)	0.383 				-	-		-	-		-	-		-	-
-	George Kittle	San Francisco 49ers	TE	TE9	7.2 	115 	0 	0 	0 	0 	0 	0 	53 	3 	585 	37 	5 	0.344 	0.600 	0.516 	1 	0.247 	86 	96 	10 	9 	9 	0 	0.369 				-	-		-	-		-	-		-	-
-	Caleb Williams	Chicago Bears	QB	QB13	17.8 	285 	3,395 	212 	25 	359 	22 	2 	0 	0 	0 	0 	0 	0.855 	0.500 	0.416 	0 	0.183 	87 	64 	(23)	13 	6 	(7)	0.367 				-	-		-	-		-	-		-	-
-	Courtland Sutton	Denver Broncos	WR	WR36	8.9 	142 	0 	0 	0 	0 	0 	0 	58 	4 	799 	50 	5 	0.426 	1.000 	0.640 	0 	0.073 	88 	86 	(2)	36 	37 	1 	0.363 				-	-		-	-		-	-		-	-
-	Rhamondre Stevenson	New England Patriots	RB	RB31	9.3 	149 	0 	0 	0 	524 	33 	6 	30 	2 	328 	21 	2 	0.449 	1.000 	0.690 	0 	0.001 	89 	74 	(15)	31 	28 	(3)	0.356 				-	-		-	-		-	-		-	-
-	Marvin Harrison Jr.	Arizona Cardinals	WR	WR37	8.7 	140 	0 	0 	0 	0 	0 	0 	55 	3 	808 	50 	5 	0.419 	1.000 	0.630 	0 	0.056 	90 	72 	(18)	37 	32 	(5)	0.351 				-	-		-	-		-	-		-	-
-	Jadarian Price	Seattle Seahawks	RB	RB32	9.0 	145 	0 	0 	0 	721 	45 	4 	25 	2 	224 	14 	2 	0.434 	1.000 	0.680 	(0)	0.000 	91 	56 	(35)	32 	24 	(8)	0.349 				-	-		-	-		-	-		-	-
+	David Montgomery	Houston Texans	RB	RB27	10.8 	172 	0 	0 	0 	873 	55 	9 	22 	1 	180 	11 	1 	0.517 	1.000 	0.730 	0 	0.159 	68 	49 	(19)	27 	21 	(6)	0.452 				-	-		-	-	Jalen McMillan	65 	WR68		-	-
+	Jordyn Tyson	New Orleans Saints	WR	WR28	9.7 	155 	0 	0 	0 	0 	0 	0 	70 	4 	821 	51 	6 	0.465 	1.000 	0.720 	0 	0.163 	69 	75 	6 	28 	33 	5 	0.444 				-	-		-	-	Rashod Bateman	63 	WR69		-	-
+	Kyle Pitts Sr.	Atlanta Falcons	TE	TE7	7.9 	127 	0 	0 	0 	0 	0 	0 	65 	4 	681 	43 	4 	0.382 	0.600 	0.538 	1 	0.377 	70 	80 	10 	7 	8 	1 	0.442 				-	-		-	-	Malachi Fields	54 	WR70		-	-
+	Luther Burden III	Chicago Bears	WR	WR29	9.7 	155 	0 	0 	0 	20 	1 	0 	61 	4 	849 	53 	6 	0.465 	1.000 	0.710 	0 	0.162 	71 	47 	(24)	29 	22 	(7)	0.439 				-	-		-	-	Troy Franklin	54 	WR71		-	-
+	Brock Purdy	San Francisco 49ers	QB	QB9	18.3 	292 	3,844 	240 	29 	110 	7 	2 	0 	0 	0 	0 	0 	0.878 	0.500 	0.444 	1 	0.307 	72 	95 	23 	9 	14 	5 	0.433 				-	-		-	-	Jaylin Lane	50 	WR72		-	-
+	Jaylen Warren	Pittsburgh Steelers	RB	RB28	10.5 	168 	0 	0 	0 	699 	44 	6 	40 	3 	333 	21 	2 	0.504 	1.000 	0.720 	0 	0.129 	73 	82 	9 	28 	30 	2 	0.432 				-	-		-	-	Darnell Mooney	48 	WR73		-	-
+	Rome Odunze	Chicago Bears	WR	WR30	9.5 	153 	0 	0 	0 	20 	1 	0 	59 	4 	883 	55 	6 	0.458 	1.000 	0.700 	0 	0.147 	74 	62 	(12)	30 	28 	(2)	0.427 				-	-		-	-	Andrei Iosivas	46 	WR74		-	-
+	Brian Thomas Jr.	Jacksonville Jaguars	WR	WR31	9.5 	152 	0 	0 	0 	16 	1 	0 	59 	4 	871 	54 	6 	0.457 	1.000 	0.690 	0 	0.143 	75 	67 	(8)	31 	29 	(2)	0.421 				-	-		-	-	Kayshon Boutte	44 	WR75		-	-
+	Sam LaPorta	Detroit Lions	TE	TE8	7.7 	123 	0 	0 	0 	0 	0 	0 	51 	3 	627 	39 	6 	0.369 	0.600 	0.527 	1 	0.332 	76 	78 	2 	8 	7 	(1)	0.416 				-	-		-	-	Tory Horton	40 	WR76		-	-
+	DK Metcalf	Pittsburgh Steelers	WR	WR32	9.4 	151 	0 	0 	0 	0 	0 	0 	58 	4 	832 	52 	6 	0.452 	1.000 	0.680 	0 	0.133 	77 	84 	7 	32 	36 	4 	0.411 				-	-		-	-	Isaac TeSlaa	37 	WR77		-	-
+	Parker Washington	Jacksonville Jaguars	WR	WR33	9.4 	151 	0 	0 	0 	0 	0 	0 	57 	4 	835 	52 	6 	0.452 	1.000 	0.670 	0 	0.132 	78 	79 	1 	33 	35 	2 	0.406 				-	-		-	-	Olamide Zaccheaus	36 	WR78		-	-
+	Quentin Johnston	Los Angeles Chargers	WR	WR34	9.4 	150 	0 	0 	0 	0 	0 	0 	53 	3 	759 	47 	8 	0.452 	1.000 	0.660 	0 	0.131 	79 	110 	31 	34 	47 	13 	0.401 				-	-		-	-	Ja'Kobi Lane	35 	WR79		-	-
+	Patrick Mahomes II	Kansas City Chiefs	QB	QB10	18.0 	288 	3,354 	210 	26 	355 	22 	3 	0 	0 	0 	0 	0 	0.864 	0.500 	0.437 	1 	0.233 	80 	92 	12 	10 	13 	3 	0.398 				-	-		-	-	Jordan Whittington	34 	WR80		-	-
+	TreVeyon Henderson	New England Patriots	RB	RB29	9.9 	159 	0 	0 	0 	655 	41 	6 	41 	3 	255 	16 	2 	0.476 	1.000 	0.710 	0 	0.066 	81 	51 	(30)	29 	22 	(7)	0.397 				-	-		-	-	Devaughn Vele	32 	WR81		-	-
+	Jaxson Dart	New York Giants	QB	QB11	18.0 	288 	3,306 	207 	21 	446 	28 	4 	0 	0 	0 	0 	0 	0.864 	0.500 	0.430 	1 	0.233 	82 	87 	5 	11 	11 	0 	0.395 				-	-		-	-	Jahan Dotson	31 	WR82		-	-
+	Jameson Williams	Detroit Lions	WR	WR35	9.3 	150 	0 	0 	0 	16 	1 	0 	52 	3 	902 	56 	5 	0.449 	1.000 	0.650 	0 	0.125 	83 	57 	(26)	35 	26 	(9)	0.394 				-	-		-	-	Kendrick Bourne	23 	WR83		-	-
+	Bhayshul Tuten	Jacksonville Jaguars	RB	RB30	9.9 	158 	0 	0 	0 	881 	55 	6 	23 	1 	182 	11 	1 	0.474 	1.000 	0.700 	0 	0.062 	84 	63 	(21)	30 	26 	(4)	0.390 				-	-		-	-		-	-		-	-
+	Justin Herbert	Los Angeles Chargers	QB	QB12	17.9 	287 	3,300 	206 	27 	344 	21 	2 	0 	0 	0 	0 	0 	0.861 	0.500 	0.423 	0 	0.212 	85 	83 	(2)	12 	10 	(2)	0.382 				-	-		-	-		-	-		-	-
+	Rico Dowdle	Pittsburgh Steelers	RB	RB31	9.8 	156 	0 	0 	0 	896 	56 	6 	22 	1 	166 	10 	0 	0.469 	1.000 	0.690 	0 	0.051 	86 	88 	2 	31 	32 	1 	0.380 				-	-		-	-		-	-		-	-
+	George Kittle	San Francisco 49ers	TE	TE9	7.2 	115 	0 	0 	0 	0 	0 	0 	53 	3 	585 	37 	5 	0.344 	0.600 	0.516 	1 	0.247 	87 	96 	9 	9 	9 	0 	0.369 				-	-		-	-		-	-		-	-
+	Caleb Williams	Chicago Bears	QB	QB13	17.8 	285 	3,395 	212 	25 	359 	22 	2 	0 	0 	0 	0 	0 	0.855 	0.500 	0.416 	0 	0.182 	88 	64 	(24)	13 	6 	(7)	0.366 				-	-		-	-		-	-		-	-
+	Courtland Sutton	Denver Broncos	WR	WR36	8.9 	142 	0 	0 	0 	0 	0 	0 	58 	4 	799 	50 	5 	0.426 	1.000 	0.640 	0 	0.073 	89 	86 	(3)	36 	37 	1 	0.363 				-	-		-	-		-	-		-	-
+	Rhamondre Stevenson	New England Patriots	RB	RB32	9.3 	149 	0 	0 	0 	524 	33 	6 	30 	2 	328 	21 	2 	0.449 	1.000 	0.680 	0 	0.004 	90 	74 	(16)	32 	28 	(4)	0.353 				-	-		-	-		-	-		-	-
+	Marvin Harrison Jr.	Arizona Cardinals	WR	WR37	8.7 	140 	0 	0 	0 	0 	0 	0 	55 	3 	808 	50 	5 	0.419 	1.000 	0.630 	0 	0.056 	91 	72 	(19)	37 	32 	(5)	0.351 				-	-		-	-		-	-		-	-
 	Travis Kelce	Kansas City Chiefs	TE	TE10	6.9 	111 	0 	0 	0 	0 	0 	0 	51 	3 	566 	35 	5 	0.334 	0.600 	0.505 	0 	0.213 	92 	103 	11 	10 	10 	0 	0.348 				-	-		-	-		-	-		-	-
-	Wan'Dale Robinson	Tennessee Titans	WR	WR38	8.7 	139 	0 	0 	0 	0 	0 	0 	66 	4 	721 	45 	6 	0.418 	1.000 	0.620 	0 	0.054 	93 	107 	14 	38 	45 	7 	0.345 				-	-		-	-		-	-		-	-
+	Wan'Dale Robinson	Tennessee Titans	WR	WR38	8.7 	139 	0 	0 	0 	0 	0 	0 	66 	4 	721 	45 	6 	0.418 	1.000 	0.620 	0 	0.053 	93 	107 	14 	38 	45 	7 	0.345 				-	-		-	-		-	-		-	-
 	Kenneth Gainwell	Tampa Bay Buccaneers	RB	RB33	8.7 	139 	0 	0 	0 	497 	31 	3 	50 	3 	332 	21 	2 	0.418 	1.000 	0.670 	(0)	0.000 	94 	105 	11 	33 	36 	3 	0.343 				-	-		-	-		-	-		-	-
-	Chig Okonkwo	Washington Commanders	TE	TE11	6.9 	111 	0 	0 	0 	0 	0 	0 	56 	3 	555 	35 	5 	0.332 	0.600 	0.493 	0 	0.209 	95 	142 	47 	11 	19 	8 	0.341 				-	-		-	-		-	-		-	-
-	Jakobi Meyers	Jacksonville Jaguars	WR	WR39	8.7 	139 	0 	0 	0 	0 	0 	0 	66 	4 	762 	48 	5 	0.416 	1.000 	0.610 	0 	0.050 	96 	104 	8 	39 	43 	4 	0.338 				-	-		-	-		-	-		-	-
+	Chig Okonkwo	Washington Commanders	TE	TE11	6.9 	111 	0 	0 	0 	0 	0 	0 	56 	3 	555 	35 	5 	0.332 	0.600 	0.493 	0 	0.208 	95 	142 	47 	11 	19 	8 	0.341 				-	-		-	-		-	-		-	-
+	Jakobi Meyers	Jacksonville Jaguars	WR	WR39	8.7 	139 	0 	0 	0 	0 	0 	0 	66 	4 	762 	48 	5 	0.416 	1.000 	0.610 	0 	0.049 	96 	104 	8 	39 	43 	4 	0.338 				-	-		-	-		-	-		-	-
 	Aaron Jones Sr.	Minnesota Vikings	RB	RB34	8.3 	132 	0 	0 	0 	635 	40 	5 	29 	2 	205 	13 	1 	0.397 	1.000 	0.660 	(0)	0.000 	97 	124 	27 	34 	40 	6 	0.337 				-	-		-	-		-	-		-	-
 	Michael Pittman Jr.	Pittsburgh Steelers	WR	WR40	8.7 	138 	0 	0 	0 	0 	0 	0 	71 	4 	699 	44 	5 	0.415 	1.000 	0.600 	0 	0.048 	98 	106 	8 	40 	44 	4 	0.333 				-	-		-	-		-	-		-	-
 	Rachaad White	Washington Commanders	RB	RB35	7.9 	126 	0 	0 	0 	501 	31 	5 	36 	2 	196 	12 	1 	0.379 	1.000 	0.650 	(0)	0.000 	99 	121 	22 	35 	38 	3 	0.330 				-	-		-	-		-	-		-	-
 	Jake Ferguson	Dallas Cowboys	TE	TE12	6.8 	109 	0 	0 	0 	0 	0 	0 	66 	4 	479 	30 	5 	0.328 	0.600 	0.482 	0 	0.194 	100 	114 	14 	12 	13 	1 	0.329 				-	-		-	-		-	-		-	-
-	Kyler Murray	Minnesota Vikings	QB	QB14	17.5 	280 	3,421 	214 	24 	353 	22 	2 	0 	0 	0 	0 	0 	0.840 	0.500 	0.409 	0 	0.099 	101 	108 	7 	14 	17 	3 	0.328 				-	-		-	-		-	-		-	-
-	Zach Charbonnet	Seattle Seahawks	RB	RB36	7.6 	122 	0 	0 	0 	637 	40 	8 	5 	0 	37 	2 	0 	0.365 	1.000 	0.640 	(0)	0.000 	102 	149 	47 	36 	46 	10 	0.325 				-	-		-	-		-	-		-	-
+	Kyler Murray	Minnesota Vikings	QB	QB14	17.5 	280 	3,421 	214 	24 	353 	22 	2 	0 	0 	0 	0 	0 	0.840 	0.500 	0.409 	0 	0.097 	101 	108 	7 	14 	17 	3 	0.327 				-	-		-	-		-	-		-	-
+	Jacory Croskey-Merritt	Washington Commanders	RB	RB36	7.4 	119 	0 	0 	0 	661 	41 	7 	9 	1 	65 	4 	0 	0.357 	1.000 	0.640 	(0)	0.000 	102 	128 	26 	36 	41 	5 	0.324 				-	-		-	-		-	-		-	-
 	Mark Andrews	Baltimore Ravens	TE	TE13	6.8 	109 	0 	0 	0 	0 	0 	0 	57 	4 	506 	32 	5 	0.327 	0.600 	0.470 	0 	0.192 	103 	122 	19 	13 	15 	2 	0.323 				-	-		-	-		-	-		-	-
-	Jared Goff	Detroit Lions	QB	QB15	17.5 	280 	3,922 	245 	30 	16 	1 	0 	0 	0 	0 	0 	0 	0.840 	0.500 	0.402 	0 	0.095 	104 	101 	(3)	15 	16 	1 	0.323 				-	-		-	-		-	-		-	-
+	Jared Goff	Detroit Lions	QB	QB15	17.5 	280 	3,922 	245 	30 	16 	1 	0 	0 	0 	0 	0 	0 	0.840 	0.500 	0.402 	0 	0.094 	104 	101 	(3)	15 	16 	1 	0.322 				-	-		-	-		-	-		-	-
 	Jordan Addison	Minnesota Vikings	WR	WR41	8.5 	136 	0 	0 	0 	18 	1 	0 	54 	3 	753 	47 	5 	0.409 	1.000 	0.590 	0 	0.033 	105 	102 	(3)	41 	42 	1 	0.321 				-	-		-	-		-	-		-	-
-	Jacory Croskey-Merritt	Washington Commanders	RB	RB37	7.4 	119 	0 	0 	0 	661 	41 	7 	9 	1 	65 	4 	0 	0.357 	1.000 	0.630 	(0)	0.000 	106 	128 	22 	37 	41 	4 	0.319 				-	-		-	-		-	-		-	-
-	Alec Pierce	Indianapolis Colts	WR	WR42	8.5 	136 	0 	0 	0 	0 	0 	0 	40 	3 	856 	54 	5 	0.407 	1.000 	0.580 	0 	0.030 	107 	77 	(30)	42 	34 	(8)	0.315 				-	-		-	-		-	-		-	-
+	J.K. Dobbins	Denver Broncos	RB	RB37	7.1 	114 	0 	0 	0 	616 	38 	6 	20 	1 	69 	4 	0 	0.342 	1.000 	0.630 	(0)	0.000 	106 	98 	(8)	37 	35 	(2)	0.318 				-	-		-	-		-	-		-	-
+	Alec Pierce	Indianapolis Colts	WR	WR42	8.5 	136 	0 	0 	0 	0 	0 	0 	40 	3 	856 	54 	5 	0.407 	1.000 	0.580 	0 	0.029 	107 	77 	(30)	42 	34 	(8)	0.315 				-	-		-	-		-	-		-	-
 	Hunter Henry	New England Patriots	TE	TE14	6.8 	108 	0 	0 	0 	0 	0 	0 	46 	3 	584 	36 	5 	0.325 	0.600 	0.458 	0 	0.184 	108 	146 	38 	14 	21 	7 	0.314 				-	-		-	-		-	-		-	-
-	J.K. Dobbins	Denver Broncos	RB	RB38	7.1 	114 	0 	0 	0 	616 	38 	6 	20 	1 	69 	4 	0 	0.342 	1.000 	0.620 	(0)	0.000 	109 	98 	(11)	38 	35 	(3)	0.313 				-	-		-	-		-	-		-	-
-	Blake Corum	Los Angeles Rams	RB	RB39	6.9 	110 	0 	0 	0 	682 	43 	5 	8 	1 	37 	2 	0 	0.331 	1.000 	0.610 	(1)	0.000 	110 	97 	(13)	39 	34 	(5)	0.308 				-	-		-	-		-	-		-	-
-	Jordan Love	Green Bay Packers	QB	QB16	17.3 	278 	3,511 	219 	26 	224 	14 	2 	0 	0 	0 	0 	0 	0.833 	0.500 	0.394 	0 	0.057 	111 	115 	4 	16 	18 	2 	0.303 				-	-		-	-		-	-		-	-
-	Kyle Monangai	Chicago Bears	RB	RB40	6.8 	109 	0 	0 	0 	638 	40 	4 	7 	0 	68 	4 	2 	0.328 	1.000 	0.600 	(1)	0.000 	112 	89 	(23)	40 	33 	(7)	0.303 				-	-		-	-		-	-		-	-
-	Josh Downs	Indianapolis Colts	WR	WR43	8.3 	133 	0 	0 	0 	0 	0 	0 	70 	4 	685 	43 	5 	0.400 	1.000 	0.570 	0 	0.014 	113 	113 	0 	43 	48 	5 	0.303 				-	-		-	-		-	-		-	-
-	Jordan Mason	Minnesota Vikings	RB	RB41	6.7 	108 	0 	0 	0 	582 	36 	6 	14 	1 	68 	4 	0 	0.323 	1.000 	0.590 	(1)	0.000 	114 	118 	4 	41 	37 	(4)	0.298 				-	-		-	-		-	-		-	-
-	Ricky Pearsall	San Francisco 49ers	WR	WR44	8.3 	132 	0 	0 	0 	0 	0 	0 	49 	3 	724 	45 	6 	0.396 	1.000 	0.560 	0 	0.004 	115 	109 	(6)	44 	46 	2 	0.294 				-	-		-	-		-	-		-	-
-	Jonathon Brooks	Carolina Panthers	RB	RB42	6.6 	106 	0 	0 	0 	452 	28 	3 	24 	2 	193 	12 	2 	0.318 	1.000 	0.580 	(1)	0.000 	116 	123 	7 	42 	39 	(3)	0.293 				-	-		-	-		-	-		-	-
-	Baker Mayfield	Tampa Bay Buccaneers	QB	QB17	17.3 	276 	3,317 	207 	26 	298 	19 	2 	0 	0 	0 	0 	0 	0.829 	0.500 	0.387 	0 	0.033 	117 	116 	(1)	17 	19 	2 	0.290 				-	-		-	-		-	-		-	-
+	Blake Corum	Los Angeles Rams	RB	RB38	6.9 	110 	0 	0 	0 	682 	43 	5 	8 	1 	37 	2 	0 	0.331 	1.000 	0.620 	(0)	0.000 	109 	97 	(12)	38 	34 	(4)	0.312 				-	-		-	-		-	-		-	-
+	Kyle Monangai	Chicago Bears	RB	RB39	6.8 	109 	0 	0 	0 	638 	40 	4 	7 	0 	68 	4 	2 	0.328 	1.000 	0.610 	(1)	0.000 	110 	89 	(21)	39 	33 	(6)	0.307 				-	-		-	-		-	-		-	-
+	Josh Downs	Indianapolis Colts	WR	WR43	8.3 	133 	0 	0 	0 	0 	0 	0 	70 	4 	685 	43 	5 	0.400 	1.000 	0.570 	0 	0.014 	111 	113 	2 	43 	48 	5 	0.303 				-	-		-	-		-	-		-	-
+	Jordan Love	Green Bay Packers	QB	QB16	17.3 	278 	3,511 	219 	26 	224 	14 	2 	0 	0 	0 	0 	0 	0.833 	0.500 	0.394 	0 	0.055 	112 	115 	3 	16 	18 	2 	0.302 				-	-		-	-		-	-		-	-
+	Jordan Mason	Minnesota Vikings	RB	RB40	6.7 	108 	0 	0 	0 	582 	36 	6 	14 	1 	68 	4 	0 	0.323 	1.000 	0.600 	(1)	0.000 	113 	118 	5 	40 	37 	(3)	0.302 				-	-		-	-		-	-		-	-
+	Jonathon Brooks	Carolina Panthers	RB	RB41	6.6 	106 	0 	0 	0 	452 	28 	3 	24 	2 	193 	12 	2 	0.318 	1.000 	0.590 	(1)	0.000 	114 	123 	9 	41 	39 	(2)	0.297 				-	-		-	-		-	-		-	-
+	Ricky Pearsall	San Francisco 49ers	WR	WR44	8.3 	132 	0 	0 	0 	0 	0 	0 	49 	3 	724 	45 	6 	0.396 	1.000 	0.560 	0 	0.004 	115 	109 	(6)	44 	46 	2 	0.293 				-	-		-	-		-	-		-	-
+	Baker Mayfield	Tampa Bay Buccaneers	QB	QB17	17.3 	276 	3,317 	207 	26 	298 	19 	2 	0 	0 	0 	0 	0 	0.829 	0.500 	0.387 	0 	0.031 	116 	116 	0 	17 	19 	2 	0.289 				-	-		-	-		-	-		-	-
+	Woody Marks	Houston Texans	RB	RB42	5.7 	91 	0 	0 	0 	356 	22 	3 	25 	2 	216 	13 	1 	0.273 	1.000 	0.580 	(1)	0.000 	117 	139 	22 	42 	44 	2 	0.288 				-	-		-	-		-	-		-	-
 	Makai Lemon	Philadelphia Eagles	WR	WR45	8.1 	129 	0 	0 	0 	0 	0 	0 	57 	4 	680 	42 	5 	0.388 	1.000 	0.550 	(0)	0.000 	118 	91 	(27)	45 	38 	(7)	0.286 				-	-		-	-		-	-		-	-
-	Woody Marks	Houston Texans	RB	RB43	5.7 	91 	0 	0 	0 	356 	22 	3 	25 	2 	216 	13 	1 	0.273 	1.000 	0.570 	(1)	0.000 	119 	139 	20 	43 	44 	1 	0.284 				-	-		-	-		-	-		-	-
-	KC Concepcion	Cleveland Browns	WR	WR46	8.0 	128 	0 	0 	0 	0 	0 	0 	59 	4 	727 	45 	4 	0.384 	1.000 	0.540 	(0)	0.000 	120 	127 	7 	46 	52 	6 	0.281 				-	-		-	-		-	-		-	-
-	Tyler Shough	New Orleans Saints	QB	QB18	17.2 	275 	3,569 	223 	25 	199 	12 	2 	0 	0 	0 	0 	0 	0.825 	0.500 	0.380 	0 	0.015 	121 	117 	(4)	18 	20 	2 	0.278 				-	-		-	-		-	-		-	-
+	KC Concepcion	Cleveland Browns	WR	WR46	8.0 	128 	0 	0 	0 	0 	0 	0 	59 	4 	727 	45 	4 	0.384 	1.000 	0.540 	(0)	0.000 	119 	127 	8 	46 	52 	6 	0.281 				-	-		-	-		-	-		-	-
+	Dylan Sampson	Cleveland Browns	RB	RB43	4.7 	75 	0 	0 	0 	218 	14 	2 	28 	2 	231 	14 	1 	0.225 	1.000 	0.570 	(1)	0.000 	120 	162 	42 	43 	53 	10 	0.279 				-	-		-	-		-	-		-	-
+	Tyler Shough	New Orleans Saints	QB	QB18	17.2 	275 	3,569 	223 	25 	199 	12 	2 	0 	0 	0 	0 	0 	0.825 	0.500 	0.380 	0 	0.013 	121 	117 	(4)	18 	20 	2 	0.278 				-	-		-	-		-	-		-	-
 	Jerry Jeudy	Cleveland Browns	WR	WR47	7.6 	122 	0 	0 	0 	0 	0 	0 	58 	4 	694 	43 	4 	0.365 	1.000 	0.530 	(0)	0.000 	122 	174 	52 	47 	66 	19 	0.275 				-	-		-	-		-	-		-	-
-	Dylan Sampson	Cleveland Browns	RB	RB44	4.7 	75 	0 	0 	0 	218 	14 	2 	28 	2 	231 	14 	1 	0.225 	1.000 	0.560 	(1)	0.000 	123 	162 	39 	44 	53 	9 	0.274 				-	-		-	-		-	-		-	-
-	Juwan Johnson	New Orleans Saints	TE	TE15	6.3 	101 	0 	0 	0 	0 	0 	0 	47 	3 	535 	33 	4 	0.304 	0.600 	0.445 	0 	0.112 	124 	137 	13 	15 	18 	3 	0.274 				-	-		-	-		-	-		-	-
-	Bo Nix	Denver Broncos	QB	QB19	17.2 	275 	3,472 	217 	24 	291 	18 	2 	0 	0 	0 	0 	0 	0.824 	0.500 	0.372 	0 	0.007 	125 	99 	(26)	19 	15 	(4)	0.271 				-	-		-	-		-	-		-	-
+	Juwan Johnson	New Orleans Saints	TE	TE15	6.3 	101 	0 	0 	0 	0 	0 	0 	47 	3 	535 	33 	4 	0.304 	0.600 	0.445 	0 	0.112 	123 	137 	14 	15 	18 	3 	0.274 				-	-		-	-		-	-		-	-
+	Isiah Pacheco	Detroit Lions	RB	RB44	4.3 	69 	0 	0 	0 	352 	22 	4 	7 	0 	39 	2 	1 	0.206 	1.000 	0.560 	(1)	0.000 	124 	141 	17 	44 	45 	1 	0.273 				-	-		-	-		-	-		-	-
+	Sam Darnold	Seattle Seahawks	QB	QB19	17.2 	275 	3,734 	233 	28 	86 	5 	1 	0 	0 	0 	0 	0 	0.825 	0.500 	0.372 	0 	0.009 	125 	133 	8 	19 	22 	3 	0.272 				-	-		-	-		-	-		-	-
 	Xavier Worthy	Kansas City Chiefs	WR	WR48	7.2 	115 	0 	0 	0 	39 	2 	0 	47 	3 	602 	38 	4 	0.344 	1.000 	0.520 	(0)	0.000 	126 	120 	(6)	48 	49 	1 	0.268 				-	-		-	-		-	-		-	-
-	Isiah Pacheco	Detroit Lions	RB	RB45	4.3 	69 	0 	0 	0 	352 	22 	4 	7 	0 	39 	2 	1 	0.206 	1.000 	0.550 	(1)	0.000 	127 	141 	14 	45 	45 	0 	0.268 				-	-		-	-		-	-		-	-
-	T.J. Hockenson	Minnesota Vikings	TE	TE16	6.3 	101 	0 	0 	0 	0 	0 	0 	56 	3 	479 	30 	4 	0.302 	0.600 	0.433 	0 	0.104 	128 	145 	17 	16 	20 	4 	0.265 				-	-		-	-		-	-		-	-
-	Matthew Stafford	Los Angeles Rams	QB	QB20	17.1 	273 	3,741 	234 	31 	0 	0 	0 	0 	0 	0 	0 	0 	0.820 	0.500 	0.365 	(0)	0.000 	129 	90 	(39)	20 	12 	(8)	0.265 				-	-		-	-		-	-		-	-
+	Chris Rodriguez Jr.	Jacksonville Jaguars	RB	RB45	4.2 	68 	0 	0 	0 	359 	22 	4 	4 	0 	36 	2 	0 	0.204 	1.000 	0.550 	(1)	0.000 	127 	129 	2 	45 	42 	(3)	0.268 				-	-		-	-		-	-		-	-
+	Bo Nix	Denver Broncos	QB	QB20	17.2 	275 	3,472 	217 	24 	291 	18 	2 	0 	0 	0 	0 	0 	0.824 	0.500 	0.365 	0 	0.005 	128 	99 	(29)	20 	15 	(5)	0.267 				-	-		-	-		-	-		-	-
+	T.J. Hockenson	Minnesota Vikings	TE	TE16	6.3 	101 	0 	0 	0 	0 	0 	0 	56 	3 	479 	30 	4 	0.302 	0.600 	0.433 	0 	0.104 	129 	145 	16 	16 	20 	4 	0.265 				-	-		-	-		-	-		-	-
 	Chris Godwin Jr.	Tampa Bay Buccaneers	WR	WR49	7.1 	114 	0 	0 	0 	0 	0 	0 	55 	3 	598 	37 	4 	0.341 	1.000 	0.510 	(0)	0.000 	130 	94 	(36)	49 	40 	(9)	0.264 				-	-		-	-		-	-		-	-
-	Chris Rodriguez Jr.	Jacksonville Jaguars	RB	RB46	4.2 	68 	0 	0 	0 	359 	22 	4 	4 	0 	36 	2 	0 	0.204 	1.000 	0.540 	(1)	0.000 	131 	129 	(2)	46 	42 	(4)	0.263 				-	-		-	-		-	-		-	-
-	Sam Darnold	Seattle Seahawks	QB	QB21	16.9 	271 	3,734 	233 	28 	67 	4 	1 	0 	0 	0 	0 	0 	0.813 	0.500 	0.358 	(0)	0.000 	132 	133 	1 	21 	22 	1 	0.260 				-	-		-	-		-	-		-	-
+	Zach Charbonnet	Seattle Seahawks	RB	RB46	4.2 	68 	0 	0 	0 	352 	22 	5 	3 	0 	20 	1 	0 	0.203 	1.000 	0.540 	(1)	0.000 	131 	149 	18 	46 	46 	0 	0.263 				-	-		-	-		-	-		-	-
+	Matthew Stafford	Los Angeles Rams	QB	QB21	17.1 	273 	3,741 	234 	31 	0 	0 	0 	0 	0 	0 	0 	0 	0.820 	0.500 	0.358 	(0)	0.000 	132 	90 	(42)	21 	12 	(9)	0.261 				-	-		-	-		-	-		-	-
 	Tre Tucker	Las Vegas Raiders	WR	WR50	7.1 	113 	0 	0 	0 	35 	2 	0 	49 	3 	596 	37 	4 	0.339 	1.000 	0.500 	(0)	0.000 	133 	175 	42 	50 	67 	17 	0.259 				-	-		-	-		-	-		-	-
 	Tyrone Tracy Jr.	New York Giants	RB	RB47	4.2 	68 	0 	0 	0 	368 	23 	2 	13 	1 	102 	6 	0 	0.203 	1.000 	0.530 	(1)	0.000 	134 	130 	(4)	47 	43 	(4)	0.259 				-	-		-	-		-	-		-	-
-	C.J. Stroud	Houston Texans	QB	QB22	16.8 	268 	3,598 	225 	25 	178 	11 	1 	0 	0 	0 	0 	0 	0.805 	0.500 	0.350 	(0)	0.000 	135 	138 	3 	22 	23 	1 	0.256 				-	-		-	-		-	-		-	-
-	AJ Barner	Seattle Seahawks	TE	TE17	6.2 	100 	0 	0 	0 	0 	0 	0 	49 	3 	485 	30 	4 	0.299 	0.600 	0.420 	0 	0.094 	136 	184 	48 	17 	27 	10 	0.255 				-	-		-	-		-	-		-	-
+	AJ Barner	Seattle Seahawks	TE	TE17	6.3 	100 	0 	0 	0 	0 	0 	0 	49 	3 	488 	30 	4 	0.300 	0.600 	0.420 	0 	0.099 	135 	184 	49 	17 	27 	10 	0.258 				-	-		-	-		-	-		-	-
+	C.J. Stroud	Houston Texans	QB	QB22	16.8 	268 	3,598 	225 	25 	178 	11 	1 	0 	0 	0 	0 	0 	0.805 	0.500 	0.350 	(0)	0.000 	136 	138 	2 	22 	23 	1 	0.256 				-	-		-	-		-	-		-	-
 	Jayden Higgins	Houston Texans	WR	WR51	7.0 	113 	0 	0 	0 	0 	0 	0 	42 	3 	540 	34 	6 	0.338 	1.000 	0.490 	(0)	0.000 	137 	136 	(1)	51 	54 	3 	0.254 				-	-		-	-		-	-		-	-
 	Tyler Allgeier	Arizona Cardinals	RB	RB48	4.2 	67 	0 	0 	0 	350 	22 	2 	14 	1 	97 	6 	0 	0.201 	1.000 	0.520 	(1)	0.000 	138 	150 	12 	48 	47 	(1)	0.254 				-	-		-	-		-	-		-	-
 	Cam Ward	Tennessee Titans	QB	QB23	16.2 	260 	3,436 	215 	24 	194 	12 	1 	0 	0 	0 	0 	0 	0.780 	0.500 	0.343 	(1)	0.000 	139 	140 	1 	23 	24 	1 	0.249 				-	-		-	-		-	-		-	-
@@ -149,34 +149,34 @@
 	Bryce Young	Carolina Panthers	QB	QB25	15.8 	253 	3,211 	201 	23 	235 	15 	2 	0 	0 	0 	0 	0 	0.760 	0.500 	0.328 	(1)	0.000 	146 	154 	8 	25 	26 	1 	0.240 				-	-		-	-		-	-		-	-
 	Alvin Kamara	New Orleans Saints	RB	RB51	3.6 	58 	0 	0 	0 	291 	18 	2 	13 	1 	71 	4 	1 	0.174 	1.000 	0.490 	(1)	0.000 	147 	160 	13 	51 	51 	0 	0.238 				-	-		-	-		-	-		-	-
 	Malik Willis	Miami Dolphins	QB	QB26	15.8 	252 	2,592 	162 	17 	621 	39 	3 	0 	0 	0 	0 	0 	0.757 	0.500 	0.320 	(1)	0.000 	148 	131 	(17)	26 	21 	(5)	0.236 				-	-		-	-		-	-		-	-
-	Rashid Shaheed	Seattle Seahawks	WR	WR55	6.7 	107 	0 	0 	0 	0 	0 	0 	45 	3 	560 	35 	5 	0.321 	1.000 	0.450 	(0)	0.000 	149 	147 	(2)	55 	57 	2 	0.235 				-	-		-	-		-	-		-	-
-	Samaje Perine	Cincinnati Bengals	RB	RB52	3.5 	55 	0 	0 	0 	317 	20 	2 	8 	1 	41 	3 	0 	0.166 	1.000 	0.480 	(1)	0.000 	150 	252 	102 	52 	81 	29 	0.233 				-	-		-	-		-	-		-	-
+	Rashid Shaheed	Seattle Seahawks	WR	WR55	6.7 	107 	0 	0 	0 	0 	0 	0 	45 	3 	563 	35 	5 	0.322 	1.000 	0.450 	(0)	0.000 	149 	147 	(2)	55 	57 	2 	0.235 				-	-		-	-		-	-		-	-
+	Emmett Johnson	Kansas City Chiefs	RB	RB52	3.3 	53 	0 	0 	0 	276 	17 	2 	10 	1 	71 	4 	1 	0.159 	1.000 	0.480 	(1)	0.000 	150 	178 	28 	52 	56 	4 	0.232 				-	-		-	-		-	-		-	-
 	Shedeur Sanders	Cleveland Browns	QB	QB27	15.3 	245 	3,305 	207 	20 	218 	14 	2 	0 	0 	0 	0 	0 	0.737 	0.500 	0.312 	(1)	0.000 	151 	233 	82 	27 	35 	8 	0.230 				-	-		-	-		-	-		-	-
 	Khalil Shakir	Buffalo Bills	WR	WR56	6.5 	105 	0 	0 	0 	22 	1 	0 	56 	3 	558 	35 	3 	0.314 	1.000 	0.440 	(0)	0.000 	152 	132 	(20)	56 	53 	(3)	0.229 				-	-		-	-		-	-		-	-
-	Emmett Johnson	Kansas City Chiefs	RB	RB53	3.3 	53 	0 	0 	0 	276 	17 	2 	10 	1 	71 	4 	1 	0.159 	1.000 	0.470 	(1)	0.000 	153 	178 	25 	53 	56 	3 	0.227 				-	-		-	-		-	-		-	-
+	Justice Hill	Baltimore Ravens	RB	RB53	3.3 	53 	0 	0 	0 	162 	10 	1 	21 	1 	169 	11 	1 	0.159 	1.000 	0.470 	(1)	0.000 	153 	227 	74 	53 	71 	18 	0.227 				-	-		-	-		-	-		-	-
 	Dalton Kincaid	Buffalo Bills	TE	TE18	5.9 	95 	0 	0 	0 	0 	0 	0 	36 	2 	525 	33 	4 	0.285 	0.600 	0.407 	0 	0.046 	154 	111 	(43)	18 	11 	(7)	0.226 				-	-		-	-		-	-		-	-
 	Jayden Reed	Green Bay Packers	WR	WR57	6.4 	102 	0 	0 	0 	0 	0 	0 	46 	3 	504 	32 	5 	0.307 	1.000 	0.430 	(0)	0.000 	155 	100 	(55)	57 	41 	(16)	0.224 				-	-		-	-		-	-		-	-
 	Aaron Rodgers	Pittsburgh Steelers	QB	QB28	14.9 	238 	3,326 	208 	24 	72 	4 	0 	0 	0 	0 	0 	0 	0.714 	0.500 	0.305 	(1)	0.000 	156 	167 	11 	28 	28 	0 	0.224 				-	-		-	-		-	-		-	-
-	Justice Hill	Baltimore Ravens	RB	RB54	3.3 	53 	0 	0 	0 	162 	10 	1 	21 	1 	169 	11 	1 	0.159 	1.000 	0.460 	(1)	0.000 	157 	227 	70 	54 	71 	17 	0.223 				-	-		-	-		-	-		-	-
+	Nicholas Singleton	Tennessee Titans	RB	RB54	3.2 	51 	0 	0 	0 	210 	13 	2 	15 	1 	103 	6 	0 	0.154 	1.000 	0.460 	(1)	0.000 	157 	170 	13 	54 	54 	0 	0.222 				-	-		-	-		-	-		-	-
 	Fernando Mendoza	Las Vegas Raiders	QB	QB29	14.9 	238 	3,139 	196 	22 	177 	11 	1 	0 	0 	0 	0 	0 	0.714 	0.500 	0.297 	(1)	0.000 	158 	164 	6 	29 	27 	(2)	0.220 				-	-		-	-		-	-		-	-
 	Omar Cooper Jr.	New York Jets	WR	WR58	6.2 	99 	0 	0 	0 	0 	0 	0 	42 	3 	541 	34 	4 	0.297 	1.000 	0.420 	(1)	0.000 	159 	156 	(3)	58 	59 	1 	0.219 				-	-		-	-		-	-		-	-
-	Nicholas Singleton	Tennessee Titans	RB	RB55	3.2 	51 	0 	0 	0 	210 	13 	2 	15 	1 	103 	6 	0 	0.154 	1.000 	0.450 	(1)	0.000 	160 	170 	10 	55 	54 	(1)	0.218 				-	-		-	-		-	-		-	-
+	Tank Bigsby	Philadelphia Eagles	RB	RB55	3.2 	51 	0 	0 	0 	336 	21 	2 	3 	0 	31 	2 	0 	0.153 	1.000 	0.450 	(1)	0.000 	160 	180 	20 	55 	57 	2 	0.218 				-	-		-	-		-	-		-	-
 	Jacoby Brissett	Arizona Cardinals	QB	QB30	14.8 	236 	3,232 	202 	22 	159 	10 	1 	0 	0 	0 	0 	0 	0.709 	0.500 	0.289 	(1)	0.000 	161 	169 	8 	30 	29 	(1)	0.215 				-	-		-	-		-	-		-	-
-	Tank Bigsby	Philadelphia Eagles	RB	RB56	3.2 	51 	0 	0 	0 	336 	21 	2 	3 	0 	31 	2 	0 	0.153 	1.000 	0.440 	(1)	0.000 	162 	180 	18 	56 	57 	1 	0.213 				-	-		-	-		-	-		-	-
-	Matthew Golden	Green Bay Packers	WR	WR59	6.0 	95 	0 	0 	0 	41 	3 	0 	38 	2 	468 	29 	4 	0.286 	1.000 	0.410 	(1)	0.000 	163 	125 	(38)	59 	50 	(9)	0.213 				-	-		-	-		-	-		-	-
-	Mike Washington Jr.	Las Vegas Raiders	RB	RB57	3.1 	49 	0 	0 	0 	230 	14 	1 	13 	1 	94 	6 	0 	0.148 	1.000 	0.430 	(1)	0.000 	164 	172 	8 	57 	55 	(2)	0.208 				-	-		-	-		-	-		-	-
-	Geno Smith	New York Jets	QB	QB31	14.0 	225 	3,005 	188 	20 	203 	13 	1 	0 	0 	0 	0 	0 	0.674 	0.500 	0.281 	(2)	0.000 	165 	177 	12 	31 	30 	(1)	0.208 				-	-		-	-		-	-		-	-
+	Matthew Golden	Green Bay Packers	WR	WR59	6.0 	95 	0 	0 	0 	41 	3 	0 	38 	2 	468 	29 	4 	0.286 	1.000 	0.410 	(1)	0.000 	162 	125 	(37)	59 	50 	(9)	0.213 				-	-		-	-		-	-		-	-
+	Mike Washington Jr.	Las Vegas Raiders	RB	RB56	3.1 	49 	0 	0 	0 	230 	14 	1 	13 	1 	94 	6 	0 	0.148 	1.000 	0.440 	(1)	0.000 	163 	172 	9 	56 	55 	(1)	0.213 				-	-		-	-		-	-		-	-
+	Geno Smith	New York Jets	QB	QB31	14.0 	225 	3,005 	188 	20 	203 	13 	1 	0 	0 	0 	0 	0 	0.674 	0.500 	0.281 	(2)	0.000 	164 	177 	13 	31 	30 	(1)	0.208 				-	-		-	-		-	-		-	-
+	Ollie Gordon II	Miami Dolphins	RB	RB57	3.0 	49 	0 	0 	0 	253 	16 	2 	11 	1 	52 	3 	0 	0.146 	1.000 	0.430 	(1)	0.000 	165 	230 	65 	57 	73 	16 	0.208 				-	-		-	-		-	-		-	-
 	Jack Bech	Las Vegas Raiders	WR	WR60	5.6 	89 	0 	0 	0 	0 	0 	0 	42 	3 	471 	29 	4 	0.269 	1.000 	0.400 	(1)	0.000 	166 	244 	78 	60 	94 	34 	0.207 				-	-		-	-		-	-		-	-
-	Ollie Gordon II	Miami Dolphins	RB	RB58	3.0 	49 	0 	0 	0 	253 	16 	2 	11 	1 	52 	3 	0 	0.146 	1.000 	0.420 	(1)	0.000 	167 	230 	63 	58 	73 	15 	0.204 				-	-		-	-		-	-		-	-
-	Michael Penix Jr.	Atlanta Falcons	QB	QB32	13.8 	221 	3,096 	194 	20 	119 	7 	1 	0 	0 	0 	0 	0 	0.663 	0.500 	0.274 	(2)	0.000 	168 	226 	58 	32 	33 	1 	0.203 				-	-		-	-		-	-		-	-
+	Michael Penix Jr.	Atlanta Falcons	QB	QB32	13.8 	221 	3,096 	194 	20 	119 	7 	1 	0 	0 	0 	0 	0 	0.663 	0.500 	0.274 	(2)	0.000 	167 	226 	59 	32 	33 	1 	0.203 				-	-		-	-		-	-		-	-
+	Jaydon Blue	Dallas Cowboys	RB	RB58	2.9 	47 	0 	0 	0 	251 	16 	2 	8 	0 	40 	2 	0 	0.140 	1.000 	0.420 	(1)	0.000 	168 	243 	75 	58 	78 	20 	0.203 				-	-		-	-		-	-		-	-
 	Malik Washington	Miami Dolphins	WR	WR61	5.5 	88 	0 	0 	0 	0 	0 	0 	60 	4 	415 	26 	3 	0.265 	1.000 	0.390 	(1)	0.000 	169 	189 	20 	61 	71 	10 	0.202 				-	-		-	-		-	-		-	-
 	Kenyon Sadiq	New York Jets	TE	TE19	5.6 	90 	0 	0 	0 	0 	0 	0 	45 	3 	451 	28 	4 	0.271 	0.600 	0.395 	0 	0.000 	170 	134 	(36)	19 	16 	(3)	0.199 				-	-		-	-		-	-		-	-
-	Jaydon Blue	Dallas Cowboys	RB	RB59	2.9 	47 	0 	0 	0 	251 	16 	2 	8 	0 	40 	2 	0 	0.140 	1.000 	0.410 	(1)	0.000 	171 	243 	72 	59 	78 	19 	0.199 				-	-		-	-		-	-		-	-
+	Braelon Allen	New York Jets	RB	RB59	2.8 	45 	0 	0 	0 	276 	17 	2 	0 	0 	30 	2 	0 	0.136 	1.000 	0.410 	(1)	0.000 	171 	198 	27 	59 	62 	3 	0.198 				-	-		-	-		-	-		-	-
 	Antonio Williams	Washington Commanders	WR	WR62	5.3 	84 	0 	0 	0 	0 	0 	0 	38 	2 	457 	29 	3 	0.253 	1.000 	0.380 	(1)	0.000 	172 	168 	(4)	62 	64 	2 	0.196 				-	-		-	-		-	-		-	-
-	Braelon Allen	New York Jets	RB	RB60	2.8 	45 	0 	0 	0 	276 	17 	2 	0 	0 	30 	2 	0 	0.136 	1.000 	0.400 	(1)	0.000 	173 	198 	25 	60 	62 	2 	0.194 				-	-		-	-		-	-		-	-
+	Adam Randall	Baltimore Ravens	RB	RB60	2.6 	42 	0 	0 	0 	297 	19 	2 	0 	0 	0 	0 	0 	0.126 	1.000 	0.400 	(1)	0.000 	173 	245 	72 	60 	79 	19 	0.193 				-	-		-	-		-	-		-	-
 	Dallas Goedert	Philadelphia Eagles	TE	TE20	5.4 	86 	0 	0 	0 	0 	0 	0 	41 	3 	402 	25 	4 	0.259 	0.600 	0.382 	(0)	0.000 	174 	119 	(55)	20 	14 	(6)	0.192 				-	-		-	-		-	-		-	-
 	Chris Bell	Miami Dolphins	WR	WR63	5.0 	79 	0 	0 	0 	0 	0 	0 	37 	2 	441 	28 	3 	0.238 	1.000 	0.370 	(1)	0.000 	175 	196 	21 	63 	75 	12 	0.190 				-	-		-	-		-	-		-	-
-	Adam Randall	Baltimore Ravens	RB	RB61	2.6 	42 	0 	0 	0 	297 	19 	2 	0 	0 	0 	0 	0 	0.126 	1.000 	0.390 	(1)	0.000 	176 	245 	69 	61 	79 	18 	0.188 				-	-		-	-		-	-		-	-
+	Samaje Perine	Cincinnati Bengals	RB	RB61	2.6 	42 	0 	0 	0 	193 	12 	2 	8 	1 	41 	3 	0 	0.125 	1.000 	0.390 	(1)	0.000 	176 	252 	76 	61 	81 	20 	0.188 				-	-		-	-		-	-		-	-
 	Oronde Gadsden II	Los Angeles Chargers	TE	TE21	5.4 	86 	0 	0 	0 	0 	0 	0 	34 	2 	462 	29 	4 	0.257 	0.600 	0.368 	(0)	0.000 	177 	135 	(42)	21 	17 	(4)	0.186 				-	-		-	-		-	-		-	-
 	Calvin Ridley	Tennessee Titans	WR	WR64	4.9 	79 	0 	0 	0 	0 	0 	0 	25 	2 	447 	28 	4 	0.236 	1.000 	0.360 	(1)	0.000 	178 	182 	4 	64 	69 	5 	0.186 				-	-		-	-		-	-		-	-
 	Dalton Schultz	Houston Texans	TE	TE22	5.3 	85 	0 	0 	0 	0 	0 	0 	45 	3 	432 	27 	3 	0.256 	0.600 	0.355 	(0)	0.000 	179 	165 	(14)	22 	23 	1 	0.180 				-	-		-	-		-	-		-	-
@@ -199,8 +199,8 @@
 	Andrei Iosivas	Cincinnati Bengals	WR	WR74	2.9 	46 	0 	0 	0 	0 	0 	0 	19 	1 	248 	15 	2 	0.140 	1.000 	0.260 	(1)	0.000 	196 	261 	65 	74 	103 	29 	0.131 														
 	Pat Freiermuth	Pittsburgh Steelers	TE	TE30	4.0 	64 	0 	0 	0 	0 	0 	0 	0 	0 	399 	25 	4 	0.193 	0.600 	0.245 	(1)	0.000 	197 	188 	(9)	30 	29 	(1)	0.127 														
 	Kayshon Boutte	New England Patriots	WR	WR75	2.7 	44 	0 	0 	0 	0 	0 	0 	15 	1 	255 	16 	2 	0.131 	1.000 	0.250 	(1)	0.000 	198 	200 	2 	75 	78 	3 	0.126 														
-	Greg Dulcich	Miami Dolphins	TE	TE31	3.9 	62 	0 	0 	0 	0 	0 	0 	28 	2 	337 	21 	2 	0.185 	0.600 	0.230 	(1)	0.000 	199 	206 	7 	31 	30 	(1)	0.120 														
-	Tory Horton	Seattle Seahawks	WR	WR76	2.5 	40 	0 	0 	0 	0 	0 	0 	18 	1 	224 	14 	1 	0.119 	1.000 	0.240 	(1)	0.000 	200 	241 	41 	76 	93 	17 	0.120 														
+	Tory Horton	Seattle Seahawks	WR	WR76	2.5 	40 	0 	0 	0 	0 	0 	0 	18 	1 	225 	14 	1 	0.120 	1.000 	0.240 	(1)	0.000 	199 	241 	42 	76 	93 	17 	0.120 														
+	Greg Dulcich	Miami Dolphins	TE	TE31	3.9 	62 	0 	0 	0 	0 	0 	0 	28 	2 	337 	21 	2 	0.185 	0.600 	0.230 	(1)	0.000 	200 	206 	6 	31 	30 	(1)	0.120 														
 	Isaac TeSlaa	Detroit Lions	WR	WR77	2.3 	37 	0 	0 	0 	0 	0 	0 	13 	1 	196 	12 	2 	0.111 	1.000 	0.230 	(1)	0.000 	201 	186 	(15)	77 	70 	(7)	0.115 														
 	Tommy Tremble	Carolina Panthers	TE	TE32	3.6 	58 	0 	0 	0 	0 	0 	0 	28 	2 	257 	16 	3 	0.173 	0.600 	0.216 	(1)	0.000 	202 	348 	146 	32 	56 	24 	0.112 														
 	Olamide Zaccheaus	Atlanta Falcons	WR	WR78	2.3 	36 	0 	0 	0 	0 	0 	0 	23 	1 	186 	12 	1 	0.109 	1.000 	0.220 	(2)	0.000 	203 	298 	95 	78 	123 	45 	0.110 														
@@ -213,7 +213,7 @@
 	Jake Tonges	San Francisco 49ers	TE	TE35	2.8 	46 	0 	0 	0 	0 	0 	0 	28 	2 	241 	15 	1 	0.137 	0.600 	0.172 	(1)	0.000 	210 	215 	5 	35 	32 	(3)	0.089 														
 	Kendrick Bourne	Arizona Cardinals	WR	WR83	1.4 	23 	0 	0 	0 	0 	0 	0 	0 	0 	162 	10 	1 	0.068 	1.000 	0.170 	(2)	0.000 	211 	288 	77 	83 	116 	33 	0.083 														
 	Terrance Ferguson	Los Angeles Rams	TE	TE36	2.1 	34 	0 	0 	0 	0 	0 	0 	9 	1 	187 	12 	2 	0.103 	0.600 	0.158 	(1)	0.000 	212 	213 	1 	36 	31 	(5)	0.079 														
-	Elijah Arroyo	Seattle Seahawks	TE	TE37	2.1 	33 	0 	0 	0 	0 	0 	0 	16 	1 	187 	12 	1 	0.100 	0.600 	0.143 	(1)	0.000 	213 	282 	69 	37 	46 	9 	0.072 														
+	Elijah Arroyo	Seattle Seahawks	TE	TE37	2.1 	33 	0 	0 	0 	0 	0 	0 	16 	1 	188 	12 	1 	0.100 	0.600 	0.143 	(1)	0.000 	213 	282 	69 	37 	46 	9 	0.072 														
 	Dawson Knox	Buffalo Bills	TE	TE38	1.8 	29 	0 	0 	0 	0 	0 	0 	0 	0 	164 	10 	2 	0.088 	0.600 	0.128 	(1)	0.000 	214 	266 	52 	38 	41 	3 	0.064 														
 	Cole Kmet	Chicago Bears	TE	TE39	1.4 	22 	0 	0 	0 	0 	0 	0 	9 	1 	102 	6 	1 	0.066 	0.600 	0.113 	(2)	0.000 	215 	283 	68 	39 	47 	8 	0.055 														
 	Mason Taylor	New York Jets	TE	TE40	1.3 	22 	0 	0 	0 	0 	0 	0 	14 	1 	120 	8 	0 	0.065 	0.600 	0.098 	(2)	0.000 	216 	258 	42 	40 	39 	(1)	0.049 														
