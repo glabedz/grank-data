@@ -99,15 +99,25 @@
     "rec_ypg": 76.9,
     "rec_tds_pg": 0.21
   },
-  "A.J. Brown": {
-    "games": 15,
+  "James Cook III": {
+    "games": 17,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 0.0,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 5.2,
-    "rec_ypg": 66.9,
-    "rec_tds_pg": 0.47
+    "rush_ypg": 95.4,
+    "rush_tds_pg": 0.71,
+    "rec_pg": 1.9,
+    "rec_ypg": 17.1,
+    "rec_tds_pg": 0.12
+  },
+  "Kenneth Walker III": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 60.4,
+    "rush_tds_pg": 0.29,
+    "rec_pg": 1.8,
+    "rec_ypg": 16.6,
+    "rec_tds_pg": 0.0
   },
   "Justin Jefferson": {
     "games": 17,
@@ -129,16 +139,6 @@
     "rec_ypg": 20.4,
     "rec_tds_pg": 0.29
   },
-  "Kenneth Walker III": {
-    "games": 17,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 60.4,
-    "rush_tds_pg": 0.29,
-    "rec_pg": 1.8,
-    "rec_ypg": 16.6,
-    "rec_tds_pg": 0.0
-  },
   "Brock Bowers": {
     "games": 12,
     "pass_ypg": 0.0,
@@ -148,16 +148,6 @@
     "rec_pg": 5.3,
     "rec_ypg": 56.7,
     "rec_tds_pg": 0.58
-  },
-  "James Cook III": {
-    "games": 17,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 95.4,
-    "rush_tds_pg": 0.71,
-    "rec_pg": 1.9,
-    "rec_ypg": 17.1,
-    "rec_tds_pg": 0.12
   },
   "Omarion Hampton": {
     "games": 9,
@@ -169,15 +159,45 @@
     "rec_ypg": 21.3,
     "rec_tds_pg": 0.11
   },
-  "Drake London": {
-    "games": 12,
+  "A.J. Brown": {
+    "games": 15,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
     "rush_ypg": 0.0,
     "rush_tds_pg": 0.0,
-    "rec_pg": 5.7,
-    "rec_ypg": 76.6,
-    "rec_tds_pg": 0.58
+    "rec_pg": 5.2,
+    "rec_ypg": 66.9,
+    "rec_tds_pg": 0.47
+  },
+  "Chase Brown": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 59.9,
+    "rush_tds_pg": 0.35,
+    "rec_pg": 4.1,
+    "rec_ypg": 25.7,
+    "rec_tds_pg": 0.29
+  },
+  "George Pickens": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 5.5,
+    "rec_ypg": 84.1,
+    "rec_tds_pg": 0.53
+  },
+  "Derrick Henry": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 93.8,
+    "rush_tds_pg": 0.94,
+    "rec_pg": 0.9,
+    "rec_ypg": 8.8,
+    "rec_tds_pg": 0.0
   },
   "Josh Allen": {
     "games": 17,
@@ -199,15 +219,15 @@
     "rec_ypg": 72.9,
     "rec_tds_pg": 0.65
   },
-  "George Pickens": {
-    "games": 17,
+  "Nico Collins": {
+    "games": 15,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 0.0,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 5.5,
-    "rec_ypg": 84.1,
-    "rec_tds_pg": 0.53
+    "rush_ypg": 1.0,
+    "rush_tds_pg": 0.07,
+    "rec_pg": 4.7,
+    "rec_ypg": 74.5,
+    "rec_tds_pg": 0.4
   },
   "Saquon Barkley": {
     "games": 16,
@@ -219,36 +239,6 @@
     "rec_ypg": 17.1,
     "rec_tds_pg": 0.12
   },
-  "Derrick Henry": {
-    "games": 17,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 93.8,
-    "rush_tds_pg": 0.94,
-    "rec_pg": 0.9,
-    "rec_ypg": 8.8,
-    "rec_tds_pg": 0.0
-  },
-  "Chase Brown": {
-    "games": 17,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 59.9,
-    "rush_tds_pg": 0.35,
-    "rec_pg": 4.1,
-    "rec_ypg": 25.7,
-    "rec_tds_pg": 0.29
-  },
-  "Nico Collins": {
-    "games": 15,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 1.0,
-    "rush_tds_pg": 0.07,
-    "rec_pg": 4.7,
-    "rec_ypg": 74.5,
-    "rec_tds_pg": 0.4
-  },
   "Breece Hall": {
     "games": 16,
     "pass_ypg": 0.2,
@@ -259,25 +249,15 @@
     "rec_ypg": 21.9,
     "rec_tds_pg": 0.06
   },
-  "Garrett Wilson": {
-    "games": 7,
+  "Drake London": {
+    "games": 12,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
     "rush_ypg": 0.0,
     "rush_tds_pg": 0.0,
-    "rec_pg": 5.1,
-    "rec_ypg": 56.4,
-    "rec_tds_pg": 0.57
-  },
-  "Josh Jacobs": {
-    "games": 15,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 61.9,
-    "rush_tds_pg": 0.87,
-    "rec_pg": 2.4,
-    "rec_ypg": 18.8,
-    "rec_tds_pg": 0.07
+    "rec_pg": 5.7,
+    "rec_ypg": 76.6,
+    "rec_tds_pg": 0.58
   },
   "Rashee Rice": {
     "games": 8,
@@ -289,15 +269,15 @@
     "rec_ypg": 71.4,
     "rec_tds_pg": 0.62
   },
-  "Travis Etienne Jr.": {
-    "games": 17,
+  "Garrett Wilson": {
+    "games": 7,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 65.1,
-    "rush_tds_pg": 0.41,
-    "rec_pg": 2.1,
-    "rec_ypg": 17.2,
-    "rec_tds_pg": 0.35
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 5.1,
+    "rec_ypg": 56.4,
+    "rec_tds_pg": 0.57
   },
   "Javonte Williams": {
     "games": 16,
@@ -309,35 +289,25 @@
     "rec_ypg": 8.6,
     "rec_tds_pg": 0.12
   },
-  "Malik Nabers": {
-    "games": 4,
+  "Tetairoa McMillan": {
+    "games": 17,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
     "rush_ypg": 0.0,
     "rush_tds_pg": 0.0,
-    "rec_pg": 4.5,
-    "rec_ypg": 67.8,
-    "rec_tds_pg": 0.5
+    "rec_pg": 4.1,
+    "rec_ypg": 59.6,
+    "rec_tds_pg": 0.41
   },
-  "Zay Flowers": {
+  "Travis Etienne Jr.": {
     "games": 17,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 3.6,
-    "rush_tds_pg": 0.06,
-    "rec_pg": 5.1,
-    "rec_ypg": 71.2,
-    "rec_tds_pg": 0.29
-  },
-  "Jeremiyah Love": {
-    "games": 0,
-    "pass_ypg": 0,
-    "pass_tds_pg": 0,
-    "rush_ypg": 0,
-    "rush_tds_pg": 0,
-    "rec_pg": 0,
-    "rec_ypg": 0,
-    "rec_tds_pg": 0
+    "rush_ypg": 65.1,
+    "rush_tds_pg": 0.41,
+    "rec_pg": 2.1,
+    "rec_ypg": 17.2,
+    "rec_tds_pg": 0.35
   },
   "Colston Loveland": {
     "games": 16,
@@ -349,45 +319,25 @@
     "rec_ypg": 44.6,
     "rec_tds_pg": 0.38
   },
-  "Tetairoa McMillan": {
-    "games": 17,
+  "Josh Jacobs": {
+    "games": 15,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 61.9,
+    "rush_tds_pg": 0.87,
+    "rec_pg": 2.4,
+    "rec_ypg": 18.8,
+    "rec_tds_pg": 0.07
+  },
+  "Malik Nabers": {
+    "games": 4,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
     "rush_ypg": 0.0,
     "rush_tds_pg": 0.0,
-    "rec_pg": 4.1,
-    "rec_ypg": 59.6,
-    "rec_tds_pg": 0.41
-  },
-  "Harold Fannin Jr.": {
-    "games": 16,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 0.8,
-    "rush_tds_pg": 0.06,
     "rec_pg": 4.5,
-    "rec_ypg": 45.7,
-    "rec_tds_pg": 0.38
-  },
-  "Mike Evans": {
-    "games": 8,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 0.0,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 3.8,
-    "rec_ypg": 46.0,
-    "rec_tds_pg": 0.38
-  },
-  "Tyler Warren": {
-    "games": 17,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 0.5,
-    "rush_tds_pg": 0.06,
-    "rec_pg": 4.5,
-    "rec_ypg": 48.1,
-    "rec_tds_pg": 0.24
+    "rec_ypg": 67.8,
+    "rec_tds_pg": 0.5
   },
   "Kyren Williams": {
     "games": 17,
@@ -409,35 +359,15 @@
     "rec_ypg": 72.7,
     "rec_tds_pg": 0.56
   },
-  "DeVonta Smith": {
+  "Tyler Warren": {
     "games": 17,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 0.0,
-    "rush_tds_pg": 0.0,
+    "rush_ypg": 0.5,
+    "rush_tds_pg": 0.06,
     "rec_pg": 4.5,
-    "rec_ypg": 59.3,
+    "rec_ypg": 48.1,
     "rec_tds_pg": 0.24
-  },
-  "Joe Burrow": {
-    "games": 8,
-    "pass_ypg": 226.1,
-    "pass_tds_pg": 2.12,
-    "rush_ypg": 5.1,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 0.0,
-    "rec_ypg": 0.0,
-    "rec_tds_pg": 0.0
-  },
-  "D'Andre Swift": {
-    "games": 16,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 67.9,
-    "rush_tds_pg": 0.56,
-    "rec_pg": 2.1,
-    "rec_ypg": 18.7,
-    "rec_tds_pg": 0.06
   },
   "Terry McLaurin": {
     "games": 10,
@@ -449,15 +379,65 @@
     "rec_ypg": 58.2,
     "rec_tds_pg": 0.3
   },
-  "Cam Skattebo": {
-    "games": 8,
+  "Jeremiyah Love": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
+  },
+  "Tee Higgins": {
+    "games": 15,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 51.2,
-    "rush_tds_pg": 0.62,
-    "rec_pg": 3.0,
-    "rec_ypg": 25.9,
-    "rec_tds_pg": 0.25
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.9,
+    "rec_ypg": 56.4,
+    "rec_tds_pg": 0.73
+  },
+  "Lamar Jackson": {
+    "games": 13,
+    "pass_ypg": 196.1,
+    "pass_tds_pg": 1.62,
+    "rush_ypg": 26.8,
+    "rush_tds_pg": 0.15,
+    "rec_pg": 0.0,
+    "rec_ypg": 0.0,
+    "rec_tds_pg": 0.0
+  },
+  "DeVonta Smith": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 4.5,
+    "rec_ypg": 59.3,
+    "rec_tds_pg": 0.24
+  },
+  "D'Andre Swift": {
+    "games": 16,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 67.9,
+    "rush_tds_pg": 0.56,
+    "rec_pg": 2.1,
+    "rec_ypg": 18.7,
+    "rec_tds_pg": 0.06
+  },
+  "Zay Flowers": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 3.6,
+    "rush_tds_pg": 0.06,
+    "rec_pg": 5.1,
+    "rec_ypg": 71.2,
+    "rec_tds_pg": 0.29
   },
   "Emeka Egbuka": {
     "games": 17,
@@ -469,15 +449,55 @@
     "rec_ypg": 55.2,
     "rec_tds_pg": 0.35
   },
-  "Jadarian Price": {
-    "games": 0,
-    "pass_ypg": 0,
-    "pass_tds_pg": 0,
-    "rush_ypg": 0,
-    "rush_tds_pg": 0,
-    "rec_pg": 0,
-    "rec_ypg": 0,
-    "rec_tds_pg": 0
+  "Joe Burrow": {
+    "games": 8,
+    "pass_ypg": 226.1,
+    "pass_tds_pg": 2.12,
+    "rush_ypg": 5.1,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 0.0,
+    "rec_ypg": 0.0,
+    "rec_tds_pg": 0.0
+  },
+  "Davante Adams": {
+    "games": 14,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 4.3,
+    "rec_ypg": 56.4,
+    "rec_tds_pg": 1.0
+  },
+  "Harold Fannin Jr.": {
+    "games": 16,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.8,
+    "rush_tds_pg": 0.06,
+    "rec_pg": 4.5,
+    "rec_ypg": 45.7,
+    "rec_tds_pg": 0.38
+  },
+  "Mike Evans": {
+    "games": 8,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.8,
+    "rec_ypg": 46.0,
+    "rec_tds_pg": 0.38
+  },
+  "Cam Skattebo": {
+    "games": 8,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 51.2,
+    "rush_tds_pg": 0.62,
+    "rec_pg": 3.0,
+    "rec_ypg": 25.9,
+    "rec_tds_pg": 0.25
   },
   "Carnell Tate": {
     "games": 0,
@@ -499,15 +519,35 @@
     "rec_ypg": 61.1,
     "rec_tds_pg": 0.75
   },
-  "Tee Higgins": {
-    "games": 15,
+  "Ladd McConkey": {
+    "games": 16,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
     "rush_ypg": 0.0,
     "rush_tds_pg": 0.0,
-    "rec_pg": 3.9,
-    "rec_ypg": 56.4,
-    "rec_tds_pg": 0.73
+    "rec_pg": 4.1,
+    "rec_ypg": 49.3,
+    "rec_tds_pg": 0.38
+  },
+  "Quinshon Judkins": {
+    "games": 14,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 59.1,
+    "rush_tds_pg": 0.5,
+    "rec_pg": 1.9,
+    "rec_ypg": 12.2,
+    "rec_tds_pg": 0.0
+  },
+  "Chuba Hubbard": {
+    "games": 15,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 34.1,
+    "rush_tds_pg": 0.07,
+    "rec_pg": 2.0,
+    "rec_ypg": 14.9,
+    "rec_tds_pg": 0.2
   },
   "Tony Pollard": {
     "games": 17,
@@ -529,25 +569,15 @@
     "rec_ypg": 0.0,
     "rec_tds_pg": 0.0
   },
-  "Chuba Hubbard": {
-    "games": 15,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 34.1,
-    "rush_tds_pg": 0.07,
-    "rec_pg": 2.0,
-    "rec_ypg": 14.9,
-    "rec_tds_pg": 0.2
-  },
-  "Lamar Jackson": {
-    "games": 13,
-    "pass_ypg": 196.1,
-    "pass_tds_pg": 1.62,
-    "rush_ypg": 26.8,
-    "rush_tds_pg": 0.15,
-    "rec_pg": 0.0,
-    "rec_ypg": 0.0,
-    "rec_tds_pg": 0.0
+  "Jadarian Price": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
   },
   "Jayden Daniels": {
     "games": 7,
@@ -559,26 +589,6 @@
     "rec_ypg": 0.0,
     "rec_tds_pg": 0.0
   },
-  "Quinshon Judkins": {
-    "games": 14,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 59.1,
-    "rush_tds_pg": 0.5,
-    "rec_pg": 1.9,
-    "rec_ypg": 12.2,
-    "rec_tds_pg": 0.0
-  },
-  "Ladd McConkey": {
-    "games": 16,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 0.0,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 4.1,
-    "rec_ypg": 49.3,
-    "rec_tds_pg": 0.38
-  },
   "Dak Prescott": {
     "games": 17,
     "pass_ypg": 267.8,
@@ -588,56 +598,6 @@
     "rec_pg": 0.0,
     "rec_ypg": 0.0,
     "rec_tds_pg": 0.0
-  },
-  "Jaylen Warren": {
-    "games": 16,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 59.9,
-    "rush_tds_pg": 0.38,
-    "rec_pg": 2.5,
-    "rec_ypg": 20.8,
-    "rec_tds_pg": 0.12
-  },
-  "Trevor Lawrence": {
-    "games": 17,
-    "pass_ypg": 235.7,
-    "pass_tds_pg": 1.71,
-    "rush_ypg": 21.1,
-    "rush_tds_pg": 0.53,
-    "rec_pg": 0.0,
-    "rec_ypg": 0.0,
-    "rec_tds_pg": 0.0
-  },
-  "Jameson Williams": {
-    "games": 17,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 0.7,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 3.8,
-    "rec_ypg": 65.7,
-    "rec_tds_pg": 0.41
-  },
-  "RJ Harvey": {
-    "games": 17,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 31.8,
-    "rush_tds_pg": 0.41,
-    "rec_pg": 2.8,
-    "rec_ypg": 20.9,
-    "rec_tds_pg": 0.29
-  },
-  "DJ Moore": {
-    "games": 17,
-    "pass_ypg": 0.1,
-    "pass_tds_pg": 0.06,
-    "rush_ypg": 4.6,
-    "rush_tds_pg": 0.06,
-    "rec_pg": 2.9,
-    "rec_ypg": 40.1,
-    "rec_tds_pg": 0.35
   },
   "Bucky Irving": {
     "games": 10,
@@ -649,26 +609,6 @@
     "rec_ypg": 27.7,
     "rec_tds_pg": 0.3
   },
-  "George Kittle": {
-    "games": 11,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": -0.3,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 5.2,
-    "rec_ypg": 57.1,
-    "rec_tds_pg": 0.64
-  },
-  "Brock Purdy": {
-    "games": 9,
-    "pass_ypg": 240.8,
-    "pass_tds_pg": 2.22,
-    "rush_ypg": 16.3,
-    "rush_tds_pg": 0.33,
-    "rec_pg": 0.0,
-    "rec_ypg": 0.0,
-    "rec_tds_pg": 0.0
-  },
   "Christian Watson": {
     "games": 10,
     "pass_ypg": 0.0,
@@ -679,15 +619,35 @@
     "rec_ypg": 61.1,
     "rec_tds_pg": 0.6
   },
-  "DK Metcalf": {
-    "games": 15,
+  "RJ Harvey": {
+    "games": 17,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 0.8,
-    "rush_tds_pg": 0.07,
-    "rec_pg": 3.9,
-    "rec_ypg": 56.7,
-    "rec_tds_pg": 0.4
+    "rush_ypg": 31.8,
+    "rush_tds_pg": 0.41,
+    "rec_pg": 2.8,
+    "rec_ypg": 20.9,
+    "rec_tds_pg": 0.29
+  },
+  "Trevor Lawrence": {
+    "games": 17,
+    "pass_ypg": 235.7,
+    "pass_tds_pg": 1.71,
+    "rush_ypg": 21.1,
+    "rush_tds_pg": 0.53,
+    "rec_pg": 0.0,
+    "rec_ypg": 0.0,
+    "rec_tds_pg": 0.0
+  },
+  "DJ Moore": {
+    "games": 17,
+    "pass_ypg": 0.1,
+    "pass_tds_pg": 0.06,
+    "rush_ypg": 4.6,
+    "rush_tds_pg": 0.06,
+    "rec_pg": 2.9,
+    "rec_ypg": 40.1,
+    "rec_tds_pg": 0.35
   },
   "Drake Maye": {
     "games": 17,
@@ -697,76 +657,6 @@
     "rush_tds_pg": 0.24,
     "rec_pg": 0.1,
     "rec_ypg": 0.1,
-    "rec_tds_pg": 0.0
-  },
-  "Travis Kelce": {
-    "games": 17,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 0.1,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 4.5,
-    "rec_ypg": 50.1,
-    "rec_tds_pg": 0.29
-  },
-  "Quentin Johnston": {
-    "games": 14,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 0.5,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 3.6,
-    "rec_ypg": 52.5,
-    "rec_tds_pg": 0.57
-  },
-  "Luther Burden III": {
-    "games": 15,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 2.5,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 3.1,
-    "rec_ypg": 43.5,
-    "rec_tds_pg": 0.13
-  },
-  "Jaxson Dart": {
-    "games": 14,
-    "pass_ypg": 162.3,
-    "pass_tds_pg": 1.07,
-    "rush_ypg": 34.8,
-    "rush_tds_pg": 0.64,
-    "rec_pg": 0.0,
-    "rec_ypg": 0.0,
-    "rec_tds_pg": 0.0
-  },
-  "Jaylen Waddle": {
-    "games": 16,
-    "pass_ypg": 0.5,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 1.8,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 4.0,
-    "rec_ypg": 56.9,
-    "rec_tds_pg": 0.38
-  },
-  "TreVeyon Henderson": {
-    "games": 17,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 53.6,
-    "rush_tds_pg": 0.53,
-    "rec_pg": 2.1,
-    "rec_ypg": 13.0,
-    "rec_tds_pg": 0.06
-  },
-  "Justin Herbert": {
-    "games": 16,
-    "pass_ypg": 232.9,
-    "pass_tds_pg": 1.62,
-    "rush_ypg": 31.1,
-    "rush_tds_pg": 0.12,
-    "rec_pg": 0.0,
-    "rec_ypg": 0.0,
     "rec_tds_pg": 0.0
   },
   "Alec Pierce": {
@@ -779,55 +669,75 @@
     "rec_ypg": 66.9,
     "rec_tds_pg": 0.4
   },
-  "Brian Thomas Jr.": {
-    "games": 14,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 1.5,
-    "rush_tds_pg": 0.07,
-    "rec_pg": 3.4,
-    "rec_ypg": 50.5,
-    "rec_tds_pg": 0.14
-  },
-  "Patrick Mahomes II": {
-    "games": 14,
-    "pass_ypg": 256.2,
-    "pass_tds_pg": 1.57,
-    "rush_ypg": 30.1,
-    "rush_tds_pg": 0.36,
-    "rec_pg": 0.1,
-    "rec_ypg": -0.7,
+  "David Montgomery": {
+    "games": 17,
+    "pass_ypg": 0.2,
+    "pass_tds_pg": 0.06,
+    "rush_ypg": 42.1,
+    "rush_tds_pg": 0.47,
+    "rec_pg": 1.4,
+    "rec_ypg": 11.3,
     "rec_tds_pg": 0.0
   },
-  "AJ Barner": {
+  "Jaylen Waddle": {
+    "games": 16,
+    "pass_ypg": 0.5,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 1.8,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 4.0,
+    "rec_ypg": 56.9,
+    "rec_tds_pg": 0.38
+  },
+  "Kyle Pitts Sr.": {
     "games": 17,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 0.8,
-    "rush_tds_pg": 0.06,
-    "rec_pg": 3.1,
-    "rec_ypg": 30.5,
-    "rec_tds_pg": 0.35
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 5.2,
+    "rec_ypg": 54.6,
+    "rec_tds_pg": 0.29
   },
-  "Parker Washington": {
+  "Jordyn Tyson": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
+  },
+  "Luther Burden III": {
+    "games": 15,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 2.5,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.1,
+    "rec_ypg": 43.5,
+    "rec_tds_pg": 0.13
+  },
+  "Jaylen Warren": {
     "games": 16,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 0.0,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 3.6,
-    "rec_ypg": 52.9,
-    "rec_tds_pg": 0.31
-  },
-  "Chig Okonkwo": {
-    "games": 17,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 0.0,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 3.3,
-    "rec_ypg": 32.9,
+    "rush_ypg": 59.9,
+    "rush_tds_pg": 0.38,
+    "rec_pg": 2.5,
+    "rec_ypg": 20.8,
     "rec_tds_pg": 0.12
+  },
+  "Brock Purdy": {
+    "games": 9,
+    "pass_ypg": 240.8,
+    "pass_tds_pg": 2.22,
+    "rush_ypg": 16.3,
+    "rush_tds_pg": 0.33,
+    "rec_pg": 0.0,
+    "rec_ypg": 0.0,
+    "rec_tds_pg": 0.0
   },
   "Rome Odunze": {
     "games": 12,
@@ -839,65 +749,85 @@
     "rec_ypg": 55.1,
     "rec_tds_pg": 0.5
   },
-  "David Montgomery": {
-    "games": 17,
-    "pass_ypg": 0.2,
-    "pass_tds_pg": 0.06,
-    "rush_ypg": 42.1,
-    "rush_tds_pg": 0.47,
-    "rec_pg": 1.4,
-    "rec_ypg": 11.3,
-    "rec_tds_pg": 0.0
-  },
-  "Dalton Schultz": {
-    "games": 17,
+  "Sam LaPorta": {
+    "games": 9,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
     "rush_ypg": 0.0,
     "rush_tds_pg": 0.0,
-    "rec_pg": 4.8,
-    "rec_ypg": 45.7,
-    "rec_tds_pg": 0.18
+    "rec_pg": 4.4,
+    "rec_ypg": 54.3,
+    "rec_tds_pg": 0.33
   },
-  "Wan'Dale Robinson": {
-    "games": 16,
+  "Brian Thomas Jr.": {
+    "games": 14,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 0.3,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 5.8,
-    "rec_ypg": 63.4,
-    "rec_tds_pg": 0.25
+    "rush_ypg": 1.5,
+    "rush_tds_pg": 0.07,
+    "rec_pg": 3.4,
+    "rec_ypg": 50.5,
+    "rec_tds_pg": 0.14
   },
-  "Rico Dowdle": {
+  "DK Metcalf": {
+    "games": 15,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.8,
+    "rush_tds_pg": 0.07,
+    "rec_pg": 3.9,
+    "rec_ypg": 56.7,
+    "rec_tds_pg": 0.4
+  },
+  "TreVeyon Henderson": {
     "games": 17,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 63.3,
-    "rush_tds_pg": 0.35,
-    "rec_pg": 2.3,
-    "rec_ypg": 17.5,
+    "rush_ypg": 53.6,
+    "rush_tds_pg": 0.53,
+    "rec_pg": 2.1,
+    "rec_ypg": 13.0,
     "rec_tds_pg": 0.06
   },
-  "Rhamondre Stevenson": {
-    "games": 14,
+  "Parker Washington": {
+    "games": 16,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 43.1,
-    "rush_tds_pg": 0.5,
-    "rec_pg": 2.3,
-    "rec_ypg": 24.6,
-    "rec_tds_pg": 0.14
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.6,
+    "rec_ypg": 52.9,
+    "rec_tds_pg": 0.31
   },
-  "Jordan Addison": {
+  "Patrick Mahomes II": {
+    "games": 14,
+    "pass_ypg": 256.2,
+    "pass_tds_pg": 1.57,
+    "rush_ypg": 30.1,
+    "rush_tds_pg": 0.36,
+    "rec_pg": 0.1,
+    "rec_ypg": -0.7,
+    "rec_tds_pg": 0.0
+  },
+  "Quentin Johnston": {
     "games": 14,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 5.8,
-    "rush_tds_pg": 0.07,
-    "rec_pg": 3.0,
-    "rec_ypg": 43.6,
-    "rec_tds_pg": 0.21
+    "rush_ypg": 0.5,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.6,
+    "rec_ypg": 52.5,
+    "rec_tds_pg": 0.57
+  },
+  "Jaxson Dart": {
+    "games": 14,
+    "pass_ypg": 162.3,
+    "pass_tds_pg": 1.07,
+    "rush_ypg": 34.8,
+    "rush_tds_pg": 0.64,
+    "rec_pg": 0.0,
+    "rec_ypg": 0.0,
+    "rec_tds_pg": 0.0
   },
   "Bhayshul Tuten": {
     "games": 15,
@@ -909,115 +839,45 @@
     "rec_ypg": 5.3,
     "rec_tds_pg": 0.13
   },
-  "KC Concepcion": {
-    "games": 0,
-    "pass_ypg": 0,
-    "pass_tds_pg": 0,
-    "rush_ypg": 0,
-    "rush_tds_pg": 0,
-    "rec_pg": 0,
-    "rec_ypg": 0,
-    "rec_tds_pg": 0
-  },
-  "Kenneth Gainwell": {
+  "Jameson Williams": {
     "games": 17,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 31.6,
-    "rush_tds_pg": 0.29,
-    "rec_pg": 4.3,
-    "rec_ypg": 28.6,
-    "rec_tds_pg": 0.18
-  },
-  "Jared Goff": {
-    "games": 17,
-    "pass_ypg": 268.5,
-    "pass_tds_pg": 2.0,
-    "rush_ypg": 2.6,
+    "rush_ypg": 0.7,
     "rush_tds_pg": 0.0,
+    "rec_pg": 3.8,
+    "rec_ypg": 65.7,
+    "rec_tds_pg": 0.41
+  },
+  "Justin Herbert": {
+    "games": 16,
+    "pass_ypg": 232.9,
+    "pass_tds_pg": 1.62,
+    "rush_ypg": 31.1,
+    "rush_tds_pg": 0.12,
     "rec_pg": 0.0,
     "rec_ypg": 0.0,
     "rec_tds_pg": 0.0
   },
-  "Aaron Jones Sr.": {
-    "games": 12,
+  "Rico Dowdle": {
+    "games": 17,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 45.7,
-    "rush_tds_pg": 0.17,
+    "rush_ypg": 63.3,
+    "rush_tds_pg": 0.35,
     "rec_pg": 2.3,
-    "rec_ypg": 16.6,
-    "rec_tds_pg": 0.08
+    "rec_ypg": 17.5,
+    "rec_tds_pg": 0.06
   },
-  "Makai Lemon": {
-    "games": 0,
-    "pass_ypg": 0,
-    "pass_tds_pg": 0,
-    "rush_ypg": 0,
-    "rush_tds_pg": 0,
-    "rec_pg": 0,
-    "rec_ypg": 0,
-    "rec_tds_pg": 0
-  },
-  "Brenton Strange": {
-    "games": 12,
+  "George Kittle": {
+    "games": 11,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 0.0,
+    "rush_ypg": -0.3,
     "rush_tds_pg": 0.0,
-    "rec_pg": 3.8,
-    "rec_ypg": 45.0,
-    "rec_tds_pg": 0.25
-  },
-  "Kyle Monangai": {
-    "games": 17,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 46.1,
-    "rush_tds_pg": 0.29,
-    "rec_pg": 1.1,
-    "rec_ypg": 9.6,
-    "rec_tds_pg": 0.0
-  },
-  "Rachaad White": {
-    "games": 17,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 33.6,
-    "rush_tds_pg": 0.24,
-    "rec_pg": 2.4,
-    "rec_ypg": 12.8,
-    "rec_tds_pg": 0.0
-  },
-  "Mark Andrews": {
-    "games": 17,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 2.8,
-    "rush_tds_pg": 0.06,
-    "rec_pg": 2.8,
-    "rec_ypg": 24.8,
-    "rec_tds_pg": 0.29
-  },
-  "Davante Adams": {
-    "games": 14,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 0.0,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 4.3,
-    "rec_ypg": 56.4,
-    "rec_tds_pg": 1.0
-  },
-  "Jonathon Brooks": {
-    "games": 0,
-    "pass_ypg": 0,
-    "pass_tds_pg": 0,
-    "rush_ypg": 0,
-    "rush_tds_pg": 0,
-    "rec_pg": 0,
-    "rec_ypg": 0,
-    "rec_tds_pg": 0
+    "rec_pg": 5.2,
+    "rec_ypg": 57.1,
+    "rec_tds_pg": 0.64
   },
   "Caleb Williams": {
     "games": 17,
@@ -1029,6 +889,86 @@
     "rec_ypg": 1.3,
     "rec_tds_pg": 0.06
   },
+  "Courtland Sutton": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 4.4,
+    "rec_ypg": 59.8,
+    "rec_tds_pg": 0.41
+  },
+  "Rhamondre Stevenson": {
+    "games": 14,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 43.1,
+    "rush_tds_pg": 0.5,
+    "rec_pg": 2.3,
+    "rec_ypg": 24.6,
+    "rec_tds_pg": 0.14
+  },
+  "Travis Kelce": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.1,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 4.5,
+    "rec_ypg": 50.1,
+    "rec_tds_pg": 0.29
+  },
+  "Marvin Harrison Jr.": {
+    "games": 12,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.4,
+    "rec_ypg": 50.7,
+    "rec_tds_pg": 0.33
+  },
+  "Kenneth Gainwell": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 31.6,
+    "rush_tds_pg": 0.29,
+    "rec_pg": 4.3,
+    "rec_ypg": 28.6,
+    "rec_tds_pg": 0.18
+  },
+  "Chig Okonkwo": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.3,
+    "rec_ypg": 32.9,
+    "rec_tds_pg": 0.12
+  },
+  "Wan'Dale Robinson": {
+    "games": 16,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.3,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 5.8,
+    "rec_ypg": 63.4,
+    "rec_tds_pg": 0.25
+  },
+  "Aaron Jones Sr.": {
+    "games": 12,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 45.7,
+    "rush_tds_pg": 0.17,
+    "rec_pg": 2.3,
+    "rec_ypg": 16.6,
+    "rec_tds_pg": 0.08
+  },
   "Jakobi Meyers": {
     "games": 16,
     "pass_ypg": 0.0,
@@ -1039,14 +979,14 @@
     "rec_ypg": 52.2,
     "rec_tds_pg": 0.19
   },
-  "Jacory Croskey-Merritt": {
+  "Rachaad White": {
     "games": 17,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 47.4,
-    "rush_tds_pg": 0.47,
-    "rec_pg": 0.5,
-    "rec_ypg": 4.0,
+    "rush_ypg": 33.6,
+    "rush_tds_pg": 0.24,
+    "rec_pg": 2.4,
+    "rec_ypg": 12.8,
     "rec_tds_pg": 0.0
   },
   "Jake Ferguson": {
@@ -1059,25 +999,65 @@
     "rec_ypg": 35.3,
     "rec_tds_pg": 0.47
   },
-  "Sam Darnold": {
+  "Michael Pittman Jr.": {
     "games": 17,
-    "pass_ypg": 238.1,
-    "pass_tds_pg": 1.47,
-    "rush_ypg": 5.6,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 4.7,
+    "rec_ypg": 46.1,
+    "rec_tds_pg": 0.41
+  },
+  "Kyler Murray": {
+    "games": 5,
+    "pass_ypg": 192.4,
+    "pass_tds_pg": 1.2,
+    "rush_ypg": 34.6,
+    "rush_tds_pg": 0.2,
+    "rec_pg": 0.0,
+    "rec_ypg": 0.0,
+    "rec_tds_pg": 0.0
+  },
+  "Mark Andrews": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 2.8,
+    "rush_tds_pg": 0.06,
+    "rec_pg": 2.8,
+    "rec_ypg": 24.8,
+    "rec_tds_pg": 0.29
+  },
+  "Jacory Croskey-Merritt": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 47.4,
+    "rush_tds_pg": 0.47,
+    "rec_pg": 0.5,
+    "rec_ypg": 4.0,
+    "rec_tds_pg": 0.0
+  },
+  "Jared Goff": {
+    "games": 17,
+    "pass_ypg": 268.5,
+    "pass_tds_pg": 2.0,
+    "rush_ypg": 2.6,
     "rush_tds_pg": 0.0,
     "rec_pg": 0.0,
     "rec_ypg": 0.0,
     "rec_tds_pg": 0.0
   },
-  "Ricky Pearsall": {
-    "games": 9,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": -0.2,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 4.0,
-    "rec_ypg": 58.7,
-    "rec_tds_pg": 0.0
+  "Makai Lemon": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
   },
   "J.K. Dobbins": {
     "games": 10,
@@ -1087,16 +1067,6 @@
     "rush_tds_pg": 0.4,
     "rec_pg": 1.1,
     "rec_ypg": 3.7,
-    "rec_tds_pg": 0.0
-  },
-  "Baker Mayfield": {
-    "games": 17,
-    "pass_ypg": 217.2,
-    "pass_tds_pg": 1.53,
-    "rush_ypg": 22.5,
-    "rush_tds_pg": 0.06,
-    "rec_pg": 0.0,
-    "rec_ypg": 0.0,
     "rec_tds_pg": 0.0
   },
   "Blake Corum": {
@@ -1109,15 +1079,35 @@
     "rec_ypg": 2.1,
     "rec_tds_pg": 0.0
   },
-  "Jordyn Tyson": {
-    "games": 0,
-    "pass_ypg": 0,
-    "pass_tds_pg": 0,
-    "rush_ypg": 0,
-    "rush_tds_pg": 0,
-    "rec_pg": 0,
-    "rec_ypg": 0,
-    "rec_tds_pg": 0
+  "Jordan Addison": {
+    "games": 14,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 5.8,
+    "rush_tds_pg": 0.07,
+    "rec_pg": 3.0,
+    "rec_ypg": 43.6,
+    "rec_tds_pg": 0.21
+  },
+  "Kyle Monangai": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 46.1,
+    "rush_tds_pg": 0.29,
+    "rec_pg": 1.1,
+    "rec_ypg": 9.6,
+    "rec_tds_pg": 0.0
+  },
+  "Jordan Love": {
+    "games": 15,
+    "pass_ypg": 225.4,
+    "pass_tds_pg": 1.53,
+    "rush_ypg": 13.3,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 0.0,
+    "rec_ypg": 0.0,
+    "rec_tds_pg": 0.0
   },
   "Jordan Mason": {
     "games": 16,
@@ -1129,22 +1119,42 @@
     "rec_ypg": 3.2,
     "rec_tds_pg": 0.0
   },
-  "Michael Pittman Jr.": {
+  "Jonathon Brooks": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
+  },
+  "Ricky Pearsall": {
+    "games": 9,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": -0.2,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 4.0,
+    "rec_ypg": 58.7,
+    "rec_tds_pg": 0.0
+  },
+  "Hunter Henry": {
     "games": 17,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
     "rush_ypg": 0.0,
     "rush_tds_pg": 0.0,
-    "rec_pg": 4.7,
-    "rec_ypg": 46.1,
+    "rec_pg": 3.5,
+    "rec_ypg": 45.2,
     "rec_tds_pg": 0.41
   },
-  "Jordan Love": {
-    "games": 15,
-    "pass_ypg": 225.4,
+  "Baker Mayfield": {
+    "games": 17,
+    "pass_ypg": 217.2,
     "pass_tds_pg": 1.53,
-    "rush_ypg": 13.3,
-    "rush_tds_pg": 0.0,
+    "rush_ypg": 22.5,
+    "rush_tds_pg": 0.06,
     "rec_pg": 0.0,
     "rec_ypg": 0.0,
     "rec_tds_pg": 0.0
@@ -1159,26 +1169,6 @@
     "rec_ypg": 13.0,
     "rec_tds_pg": 0.19
   },
-  "Tre Tucker": {
-    "games": 17,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 3.0,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 3.4,
-    "rec_ypg": 40.9,
-    "rec_tds_pg": 0.29
-  },
-  "Bo Nix": {
-    "games": 17,
-    "pass_ypg": 231.2,
-    "pass_tds_pg": 1.47,
-    "rush_ypg": 20.9,
-    "rush_tds_pg": 0.29,
-    "rec_pg": 0.0,
-    "rec_ypg": 0.0,
-    "rec_tds_pg": 0.0
-  },
   "Josh Downs": {
     "games": 16,
     "pass_ypg": 0.0,
@@ -1189,34 +1179,84 @@
     "rec_ypg": 35.4,
     "rec_tds_pg": 0.25
   },
-  "Alvin Kamara": {
-    "games": 11,
+  "KC Concepcion": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
+  },
+  "Dylan Sampson": {
+    "games": 15,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 42.8,
-    "rush_tds_pg": 0.09,
-    "rec_pg": 3.0,
-    "rec_ypg": 16.9,
+    "rush_ypg": 11.7,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.2,
+    "rec_ypg": 18.1,
+    "rec_tds_pg": 0.13
+  },
+  "Tyler Shough": {
+    "games": 11,
+    "pass_ypg": 216.7,
+    "pass_tds_pg": 0.91,
+    "rush_ypg": 16.9,
+    "rush_tds_pg": 0.27,
+    "rec_pg": 0.0,
+    "rec_ypg": 0.0,
     "rec_tds_pg": 0.0
   },
-  "Rashid Shaheed": {
-    "games": 18,
+  "Jerry Jeudy": {
+    "games": 17,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 3.8,
+    "rush_ypg": 0.3,
     "rush_tds_pg": 0.0,
-    "rec_pg": 3.3,
-    "rec_ypg": 38.2,
-    "rec_tds_pg": 0.11
+    "rec_pg": 2.9,
+    "rec_ypg": 35.4,
+    "rec_tds_pg": 0.12
   },
-  "Hunter Henry": {
+  "Juwan Johnson": {
     "games": 17,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
     "rush_ypg": 0.0,
     "rush_tds_pg": 0.0,
-    "rec_pg": 3.5,
-    "rec_ypg": 45.2,
+    "rec_pg": 4.5,
+    "rec_ypg": 52.3,
+    "rec_tds_pg": 0.18
+  },
+  "Isiah Pacheco": {
+    "games": 13,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 35.5,
+    "rush_tds_pg": 0.08,
+    "rec_pg": 1.5,
+    "rec_ypg": 7.8,
+    "rec_tds_pg": 0.08
+  },
+  "Sam Darnold": {
+    "games": 17,
+    "pass_ypg": 238.1,
+    "pass_tds_pg": 1.47,
+    "rush_ypg": 5.6,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 0.0,
+    "rec_ypg": 0.0,
+    "rec_tds_pg": 0.0
+  },
+  "Michael Wilson": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 4.6,
+    "rec_ypg": 59.2,
     "rec_tds_pg": 0.41
   },
   "Chris Rodriguez Jr.": {
@@ -1229,15 +1269,45 @@
     "rec_ypg": 2.3,
     "rec_tds_pg": 0.0
   },
-  "Courtland Sutton": {
+  "Bo Nix": {
     "games": 17,
+    "pass_ypg": 231.2,
+    "pass_tds_pg": 1.47,
+    "rush_ypg": 20.9,
+    "rush_tds_pg": 0.29,
+    "rec_pg": 0.0,
+    "rec_ypg": 0.0,
+    "rec_tds_pg": 0.0
+  },
+  "T.J. Hockenson": {
+    "games": 15,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
     "rush_ypg": 0.0,
     "rush_tds_pg": 0.0,
-    "rec_pg": 4.4,
-    "rec_ypg": 59.8,
-    "rec_tds_pg": 0.41
+    "rec_pg": 3.4,
+    "rec_ypg": 29.2,
+    "rec_tds_pg": 0.2
+  },
+  "Xavier Worthy": {
+    "games": 14,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 6.2,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.0,
+    "rec_ypg": 38.0,
+    "rec_tds_pg": 0.07
+  },
+  "Zach Charbonnet": {
+    "games": 16,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 45.6,
+    "rush_tds_pg": 0.75,
+    "rec_pg": 1.2,
+    "rec_ypg": 9.0,
+    "rec_tds_pg": 0.0
   },
   "Matthew Stafford": {
     "games": 17,
@@ -1249,25 +1319,115 @@
     "rec_ypg": 0.0,
     "rec_tds_pg": 0.0
   },
-  "Marvin Harrison Jr.": {
-    "games": 12,
+  "Romeo Doubs": {
+    "games": 16,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
     "rush_ypg": 0.0,
     "rush_tds_pg": 0.0,
     "rec_pg": 3.4,
-    "rec_ypg": 50.7,
-    "rec_tds_pg": 0.33
+    "rec_ypg": 45.2,
+    "rec_tds_pg": 0.38
   },
-  "Isiah Pacheco": {
+  "Tyrone Tracy Jr.": {
+    "games": 15,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 49.3,
+    "rush_tds_pg": 0.13,
+    "rec_pg": 2.4,
+    "rec_ypg": 19.2,
+    "rec_tds_pg": 0.13
+  },
+  "AJ Barner": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.8,
+    "rush_tds_pg": 0.06,
+    "rec_pg": 3.1,
+    "rec_ypg": 30.5,
+    "rec_tds_pg": 0.35
+  },
+  "C.J. Stroud": {
+    "games": 14,
+    "pass_ypg": 217.2,
+    "pass_tds_pg": 1.36,
+    "rush_ypg": 14.9,
+    "rush_tds_pg": 0.07,
+    "rec_pg": 0.0,
+    "rec_ypg": 0.0,
+    "rec_tds_pg": 0.0
+  },
+  "Chris Godwin Jr.": {
+    "games": 9,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.7,
+    "rec_ypg": 40.0,
+    "rec_tds_pg": 0.22
+  },
+  "Kimani Vidal": {
     "games": 13,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 35.5,
-    "rush_tds_pg": 0.08,
-    "rec_pg": 1.5,
-    "rec_ypg": 7.8,
+    "rush_ypg": 49.5,
+    "rush_tds_pg": 0.23,
+    "rec_pg": 1.2,
+    "rec_ypg": 10.5,
     "rec_tds_pg": 0.08
+  },
+  "Tre Tucker": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 3.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.4,
+    "rec_ypg": 40.9,
+    "rec_tds_pg": 0.29
+  },
+  "Cam Ward": {
+    "games": 17,
+    "pass_ypg": 186.4,
+    "pass_tds_pg": 0.88,
+    "rush_ypg": 9.4,
+    "rush_tds_pg": 0.12,
+    "rec_pg": 0.0,
+    "rec_ypg": 0.0,
+    "rec_tds_pg": 0.0
+  },
+  "Tyler Allgeier": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 30.2,
+    "rush_tds_pg": 0.47,
+    "rec_pg": 0.8,
+    "rec_ypg": 5.6,
+    "rec_tds_pg": 0.0
+  },
+  "Jayden Higgins": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.4,
+    "rec_ypg": 30.9,
+    "rec_tds_pg": 0.35
+  },
+  "Daniel Jones": {
+    "games": 13,
+    "pass_ypg": 238.5,
+    "pass_tds_pg": 1.46,
+    "rush_ypg": 12.6,
+    "rush_tds_pg": 0.38,
+    "rec_pg": 0.0,
+    "rec_ypg": 0.0,
+    "rec_tds_pg": 0.0
   },
   "Brian Robinson Jr.": {
     "games": 17,
@@ -1289,135 +1449,45 @@
     "rec_ypg": 35.8,
     "rec_tds_pg": 0.27
   },
-  "Tyler Shough": {
-    "games": 11,
-    "pass_ypg": 216.7,
-    "pass_tds_pg": 0.91,
-    "rush_ypg": 16.9,
-    "rush_tds_pg": 0.27,
-    "rec_pg": 0.0,
-    "rec_ypg": 0.0,
-    "rec_tds_pg": 0.0
-  },
-  "Kyler Murray": {
-    "games": 5,
-    "pass_ypg": 192.4,
-    "pass_tds_pg": 1.2,
-    "rush_ypg": 34.6,
-    "rush_tds_pg": 0.2,
-    "rec_pg": 0.0,
-    "rec_ypg": 0.0,
-    "rec_tds_pg": 0.0
-  },
-  "Kimani Vidal": {
-    "games": 13,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 49.5,
-    "rush_tds_pg": 0.23,
-    "rec_pg": 1.2,
-    "rec_ypg": 10.5,
-    "rec_tds_pg": 0.08
-  },
-  "Xavier Worthy": {
-    "games": 14,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 6.2,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 3.0,
-    "rec_ypg": 38.0,
-    "rec_tds_pg": 0.07
-  },
-  "C.J. Stroud": {
-    "games": 14,
-    "pass_ypg": 217.2,
-    "pass_tds_pg": 1.36,
-    "rush_ypg": 14.9,
-    "rush_tds_pg": 0.07,
-    "rec_pg": 0.0,
-    "rec_ypg": 0.0,
-    "rec_tds_pg": 0.0
-  },
-  "Dylan Sampson": {
-    "games": 15,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 11.7,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 2.2,
-    "rec_ypg": 18.1,
-    "rec_tds_pg": 0.13
-  },
-  "Chris Godwin Jr.": {
-    "games": 9,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 0.0,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 3.7,
-    "rec_ypg": 40.0,
-    "rec_tds_pg": 0.22
-  },
-  "Cam Ward": {
-    "games": 17,
-    "pass_ypg": 186.4,
-    "pass_tds_pg": 0.88,
-    "rush_ypg": 9.4,
+  "Bryce Young": {
+    "games": 16,
+    "pass_ypg": 188.2,
+    "pass_tds_pg": 1.44,
+    "rush_ypg": 13.5,
     "rush_tds_pg": 0.12,
     "rec_pg": 0.0,
     "rec_ypg": 0.0,
     "rec_tds_pg": 0.0
   },
-  "Jayden Higgins": {
-    "games": 17,
+  "Alvin Kamara": {
+    "games": 11,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 0.0,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 2.4,
-    "rec_ypg": 30.9,
-    "rec_tds_pg": 0.35
-  },
-  "Justice Hill": {
-    "games": 10,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 9.3,
-    "rush_tds_pg": 0.2,
-    "rec_pg": 2.1,
+    "rush_ypg": 42.8,
+    "rush_tds_pg": 0.09,
+    "rec_pg": 3.0,
     "rec_ypg": 16.9,
-    "rec_tds_pg": 0.1
+    "rec_tds_pg": 0.0
   },
-  "Daniel Jones": {
-    "games": 13,
-    "pass_ypg": 238.5,
-    "pass_tds_pg": 1.46,
-    "rush_ypg": 12.6,
-    "rush_tds_pg": 0.38,
+  "Malik Willis": {
+    "games": 4,
+    "pass_ypg": 105.5,
+    "pass_tds_pg": 0.75,
+    "rush_ypg": 30.8,
+    "rush_tds_pg": 0.5,
     "rec_pg": 0.0,
     "rec_ypg": 0.0,
     "rec_tds_pg": 0.0
   },
-  "Jerry Jeudy": {
-    "games": 17,
+  "Rashid Shaheed": {
+    "games": 18,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
-    "rush_ypg": 0.3,
+    "rush_ypg": 3.8,
     "rush_tds_pg": 0.0,
-    "rec_pg": 2.9,
-    "rec_ypg": 35.4,
-    "rec_tds_pg": 0.12
-  },
-  "Kenyon Sadiq": {
-    "games": 0,
-    "pass_ypg": 0,
-    "pass_tds_pg": 0,
-    "rush_ypg": 0,
-    "rush_tds_pg": 0,
-    "rec_pg": 0,
-    "rec_ypg": 0,
-    "rec_tds_pg": 0
+    "rec_pg": 3.3,
+    "rec_ypg": 38.2,
+    "rec_tds_pg": 0.11
   },
   "Emmett Johnson": {
     "games": 0,
@@ -1449,35 +1519,65 @@
     "rec_ypg": 44.9,
     "rec_tds_pg": 0.25
   },
-  "Samaje Perine": {
-    "games": 15,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 25.5,
-    "rush_tds_pg": 0.2,
-    "rec_pg": 1.1,
-    "rec_ypg": 5.8,
-    "rec_tds_pg": 0.0
-  },
-  "Sam LaPorta": {
-    "games": 9,
+  "Dalton Kincaid": {
+    "games": 12,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
     "rush_ypg": 0.0,
     "rush_tds_pg": 0.0,
-    "rec_pg": 4.4,
-    "rec_ypg": 54.3,
-    "rec_tds_pg": 0.33
+    "rec_pg": 3.2,
+    "rec_ypg": 47.6,
+    "rec_tds_pg": 0.42
   },
-  "Malik Willis": {
-    "games": 4,
-    "pass_ypg": 105.5,
-    "pass_tds_pg": 0.75,
-    "rush_ypg": 30.8,
-    "rush_tds_pg": 0.5,
-    "rec_pg": 0.0,
-    "rec_ypg": 0.0,
+  "Justice Hill": {
+    "games": 10,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 9.3,
+    "rush_tds_pg": 0.2,
+    "rec_pg": 2.1,
+    "rec_ypg": 16.9,
+    "rec_tds_pg": 0.1
+  },
+  "Jayden Reed": {
+    "games": 7,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 4.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.7,
+    "rec_ypg": 29.6,
+    "rec_tds_pg": 0.14
+  },
+  "Aaron Rodgers": {
+    "games": 16,
+    "pass_ypg": 207.6,
+    "pass_tds_pg": 1.5,
+    "rush_ypg": 3.8,
+    "rush_tds_pg": 0.06,
+    "rec_pg": 0.1,
+    "rec_ypg": -0.6,
     "rec_tds_pg": 0.0
+  },
+  "Nicholas Singleton": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
+  },
+  "Fernando Mendoza": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
   },
   "Omar Cooper Jr.": {
     "games": 0,
@@ -1489,6 +1589,36 @@
     "rec_ypg": 0,
     "rec_tds_pg": 0
   },
+  "Tank Bigsby": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 20.9,
+    "rush_tds_pg": 0.12,
+    "rec_pg": 0.2,
+    "rec_ypg": 1.9,
+    "rec_tds_pg": 0.0
+  },
+  "Jacoby Brissett": {
+    "games": 14,
+    "pass_ypg": 240.4,
+    "pass_tds_pg": 1.64,
+    "rush_ypg": 12.0,
+    "rush_tds_pg": 0.07,
+    "rec_pg": 0.0,
+    "rec_ypg": 0.0,
+    "rec_tds_pg": 0.0
+  },
+  "Matthew Golden": {
+    "games": 14,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 3.5,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.1,
+    "rec_ypg": 25.8,
+    "rec_tds_pg": 0.0
+  },
   "Mike Washington Jr.": {
     "games": 0,
     "pass_ypg": 0,
@@ -1498,5 +1628,535 @@
     "rec_pg": 0,
     "rec_ypg": 0,
     "rec_tds_pg": 0
+  },
+  "Geno Smith": {
+    "games": 15,
+    "pass_ypg": 201.7,
+    "pass_tds_pg": 1.27,
+    "rush_ypg": 7.3,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 0.0,
+    "rec_ypg": 0.0,
+    "rec_tds_pg": 0.0
+  },
+  "Ollie Gordon II": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 11.7,
+    "rush_tds_pg": 0.18,
+    "rec_pg": 0.4,
+    "rec_ypg": 1.9,
+    "rec_tds_pg": 0.06
+  },
+  "Jack Bech": {
+    "games": 16,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 1.2,
+    "rec_ypg": 14.0,
+    "rec_tds_pg": 0.0
+  },
+  "Michael Penix Jr.": {
+    "games": 9,
+    "pass_ypg": 220.2,
+    "pass_tds_pg": 1.0,
+    "rush_ypg": 7.8,
+    "rush_tds_pg": 0.11,
+    "rec_pg": 0.0,
+    "rec_ypg": 0.0,
+    "rec_tds_pg": 0.0
+  },
+  "Jaydon Blue": {
+    "games": 5,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 25.8,
+    "rush_tds_pg": 0.2,
+    "rec_pg": 0.2,
+    "rec_ypg": 1.0,
+    "rec_tds_pg": 0.0
+  },
+  "Malik Washington": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
+  },
+  "Kenyon Sadiq": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
+  },
+  "Braelon Allen": {
+    "games": 4,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 19.0,
+    "rush_tds_pg": 0.25,
+    "rec_pg": 0.5,
+    "rec_ypg": 4.2,
+    "rec_tds_pg": 0.0
+  },
+  "Antonio Williams": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
+  },
+  "Adam Randall": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
+  },
+  "Oronde Gadsden II": {
+    "games": 15,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.3,
+    "rec_ypg": 44.3,
+    "rec_tds_pg": 0.2
+  },
+  "Chris Bell": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
+  },
+  "Samaje Perine": {
+    "games": 15,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 25.5,
+    "rush_tds_pg": 0.2,
+    "rec_pg": 1.1,
+    "rec_ypg": 5.8,
+    "rec_tds_pg": 0.0
+  },
+  "Dalton Schultz": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 4.8,
+    "rec_ypg": 45.7,
+    "rec_tds_pg": 0.18
+  },
+  "Calvin Ridley": {
+    "games": 7,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.4,
+    "rec_ypg": 43.3,
+    "rec_tds_pg": 0.0
+  },
+  "Keon Coleman": {
+    "games": 13,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.9,
+    "rec_ypg": 31.1,
+    "rec_tds_pg": 0.31
+  },
+  "Brenton Strange": {
+    "games": 12,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.8,
+    "rec_ypg": 45.0,
+    "rec_tds_pg": 0.25
+  },
+  "Jauan Jennings": {
+    "games": 15,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.7,
+    "rec_ypg": 42.9,
+    "rec_tds_pg": 0.6
+  },
+  "Mike Gesicki": {
+    "games": 13,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.2,
+    "rec_ypg": 23.6,
+    "rec_tds_pg": 0.15
+  },
+  "Denzel Boston": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
+  },
+  "Dallas Goedert": {
+    "games": 15,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 4.0,
+    "rec_ypg": 39.4,
+    "rec_tds_pg": 0.73
+  },
+  "Jalen McMillan": {
+    "games": 4,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.2,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.0,
+    "rec_ypg": 44.5,
+    "rec_tds_pg": 0.0
+  },
+  "Evan Engram": {
+    "games": 16,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.4,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.1,
+    "rec_ypg": 28.8,
+    "rec_tds_pg": 0.06
+  },
+  "Rashod Bateman": {
+    "games": 13,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 1.5,
+    "rec_ypg": 17.2,
+    "rec_tds_pg": 0.15
+  },
+  "Cade Otton": {
+    "games": 16,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.7,
+    "rec_ypg": 35.8,
+    "rec_tds_pg": 0.06
+  },
+  "Malachi Fields": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
+  },
+  "Troy Franklin": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.7,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.8,
+    "rec_ypg": 41.7,
+    "rec_tds_pg": 0.35
+  },
+  "Isaiah Likely": {
+    "games": 14,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 1.9,
+    "rec_ypg": 21.9,
+    "rec_tds_pg": 0.07
+  },
+  "Jaylin Lane": {
+    "games": 15,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.5,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 1.1,
+    "rec_ypg": 15.0,
+    "rec_tds_pg": 0.0
+  },
+  "Colby Parkinson": {
+    "games": 15,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.9,
+    "rec_ypg": 27.2,
+    "rec_tds_pg": 0.53
+  },
+  "Darnell Mooney": {
+    "games": 15,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.1,
+    "rec_ypg": 29.5,
+    "rec_tds_pg": 0.07
+  },
+  "Theo Johnson": {
+    "games": 15,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.0,
+    "rec_ypg": 35.2,
+    "rec_tds_pg": 0.33
+  },
+  "Andrei Iosivas": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.8,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 1.9,
+    "rec_ypg": 25.6,
+    "rec_tds_pg": 0.12
+  },
+  "Pat Freiermuth": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.4,
+    "rec_ypg": 28.6,
+    "rec_tds_pg": 0.24
+  },
+  "Tory Horton": {
+    "games": 8,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 1.6,
+    "rec_ypg": 20.1,
+    "rec_tds_pg": 0.62
+  },
+  "Greg Dulcich": {
+    "games": 10,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": -0.7,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.6,
+    "rec_ypg": 33.5,
+    "rec_tds_pg": 0.1
+  },
+  "Kayshon Boutte": {
+    "games": 14,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.4,
+    "rec_ypg": 39.4,
+    "rec_tds_pg": 0.43
+  },
+  "Isaac TeSlaa": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 0.9,
+    "rec_ypg": 14.1,
+    "rec_tds_pg": 0.35
+  },
+  "Tommy Tremble": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 1.6,
+    "rec_ypg": 14.6,
+    "rec_tds_pg": 0.12
+  },
+  "Olamide Zaccheaus": {
+    "games": 16,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 1.6,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.4,
+    "rec_ypg": 19.6,
+    "rec_tds_pg": 0.12
+  },
+  "Ja'Kobi Lane": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
+  },
+  "David Njoku": {
+    "games": 12,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.8,
+    "rec_ypg": 24.4,
+    "rec_tds_pg": 0.33
+  },
+  "Jordan Whittington": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.7,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 1.1,
+    "rec_ypg": 10.1,
+    "rec_tds_pg": 0.0
+  },
+  "Jake Tonges": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.0,
+    "rec_ypg": 17.2,
+    "rec_tds_pg": 0.29
+  },
+  "Devaughn Vele": {
+    "games": 13,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 1.9,
+    "rec_ypg": 22.5,
+    "rec_tds_pg": 0.15
+  },
+  "Jahan Dotson": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 1.1,
+    "rec_ypg": 15.4,
+    "rec_tds_pg": 0.06
+  },
+  "Eli Stowers": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
+  },
+  "Kendrick Bourne": {
+    "games": 16,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.3,
+    "rec_ypg": 34.4,
+    "rec_tds_pg": 0.0
+  },
+  "Terrance Ferguson": {
+    "games": 14,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 0.8,
+    "rec_ypg": 16.5,
+    "rec_tds_pg": 0.21
+  },
+  "Elijah Arroyo": {
+    "games": 13,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 1.2,
+    "rec_ypg": 13.8,
+    "rec_tds_pg": 0.08
+  },
+  "Dawson Knox": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.1,
+    "rec_ypg": 24.5,
+    "rec_tds_pg": 0.24
+  },
+  "Cole Kmet": {
+    "games": 16,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 1.9,
+    "rec_ypg": 21.7,
+    "rec_tds_pg": 0.12
+  },
+  "Mason Taylor": {
+    "games": 13,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.4,
+    "rec_ypg": 28.4,
+    "rec_tds_pg": 0.08
   }
 }
