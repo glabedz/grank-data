@@ -2149,46 +2149,6 @@
     "rec_ypg": 21.7,
     "rec_tds_pg": 0.12
   },
-   "Gunnar Helm": {
-    "games": 16,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 0.0,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 1.9,
-    "rec_ypg": 21.7,
-    "rec_tds_pg": 0.12
-  },
-   "Adonai Mitchell": {
-    "games": 16,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 0.0,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 1.9,
-    "rec_ypg": 21.7,
-    "rec_tds_pg": 0.12
-  },
-   "Keaton Mitchell": {
-    "games": 16,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 0.0,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 1.9,
-    "rec_ypg": 21.7,
-    "rec_tds_pg": 0.12
-  },
-    "Jalen Nailor": {
-    "games": 16,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 0.0,
-    "rush_tds_pg": 0.0,
-    "rec_pg": 1.9,
-    "rec_ypg": 21.7,
-    "rec_tds_pg": 0.12
-  },
   "Mason Taylor": {
     "games": 13,
     "pass_ypg": 0.0,
@@ -2199,24 +2159,64 @@
     "rec_ypg": 28.4,
     "rec_tds_pg": 0.08
   },
-  "Demond Claiborne": {
-    "games": 13,
+  "Gunnar Helm": {
+    "games": 16,
     "pass_ypg": 0.0,
     "pass_tds_pg": 0.0,
     "rush_ypg": 0.0,
     "rush_tds_pg": 0.0,
-    "rec_pg": 3.4,
-    "rec_ypg": 28.4,
-    "rec_tds_pg": 0.08
+    "rec_pg": 2.8,
+    "rec_ypg": 22.3,
+    "rec_tds_pg": 0.12
+  },
+  "Keaton Mitchell": {
+    "games": 13,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 26.2,
+    "rush_tds_pg": 0.08,
+    "rec_pg": 0.7,
+    "rec_ypg": 4.8,
+    "rec_tds_pg": 0.0
+  },
+  "Adonai Mitchell": {
+    "games": 16,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": -0.2,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.1,
+    "rec_ypg": 28.3,
+    "rec_tds_pg": 0.12
+  },
+  "Jalen Nailor": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.8,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 1.7,
+    "rec_ypg": 26.1,
+    "rec_tds_pg": 0.24
+  },
+  "Demond Claiborne": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
   },
   "Tua Tagovailoa": {
-    "games": 13,
-    "pass_ypg": 0.0,
-    "pass_tds_pg": 0.0,
-    "rush_ypg": 0.0,
+    "games": 14,
+    "pass_ypg": 190.0,
+    "pass_tds_pg": 1.43,
+    "rush_ypg": 3.1,
     "rush_tds_pg": 0.0,
-    "rec_pg": 3.4,
-    "rec_ypg": 28.4,
-    "rec_tds_pg": 0.08
+    "rec_pg": 0.0,
+    "rec_ypg": 0.0,
+    "rec_tds_pg": 0.0
   }
 }
