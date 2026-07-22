@@ -2198,5 +2198,25 @@
     "rec_pg": 3.4,
     "rec_ypg": 28.4,
     "rec_tds_pg": 0.08
+  },
+  "Demond Claiborne": {
+    "games": 13,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.4,
+    "rec_ypg": 28.4,
+    "rec_tds_pg": 0.08
+  },
+  "Tua Tagovailoa": {
+    "games": 13,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 3.4,
+    "rec_ypg": 28.4,
+    "rec_tds_pg": 0.08
   }
 }
