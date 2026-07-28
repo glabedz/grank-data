@@ -2218,5 +2218,35 @@
     "rec_pg": 0.0,
     "rec_ypg": 0.0,
     "rec_tds_pg": 0.0
+  },
+  "Jonah Coleman": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
+  },
+  "Tyjae Spears": {
+    "games": 13,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 21.8,
+    "rush_tds_pg": 0.15,
+    "rec_pg": 3.5,
+    "rec_ypg": 20.3,
+    "rec_tds_pg": 0.0
+  },
+  "Pat Bryant": {
+    "games": 15,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.1,
+    "rec_ypg": 25.2,
+    "rec_tds_pg": 0.07
   }
 }
