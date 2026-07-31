@@ -2248,5 +2248,15 @@
     "rec_pg": 2.1,
     "rec_ypg": 25.2,
     "rec_tds_pg": 0.07
+  }, 
+  "Deebo Samuel": {
+    "games": 16,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 4.7,
+    "rush_tds_pg": 0.06,
+    "rec_pg": 4.5,
+    "rec_ypg": 45.4,
+    "rec_tds_pg": 0.31
   }
 }
