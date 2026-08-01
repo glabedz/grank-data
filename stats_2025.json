@@ -2258,5 +2258,35 @@
     "rec_pg": 4.5,
     "rec_ypg": 45.4,
     "rec_tds_pg": 0.31
+  },
+  "De'Zhaun Stribling": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
+  },
+  "George Holani": {
+    "games": 11,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 6.6,
+    "rush_tds_pg": 0.09,
+    "rec_pg": 0.2,
+    "rec_ypg": 1.4,
+    "rec_tds_pg": 0.0
+  },
+  "Cyrus Allen": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
   }
 }
