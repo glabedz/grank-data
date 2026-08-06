@@ -2428,5 +2428,15 @@
     "rec_pg": 2.5,
     "rec_ypg": 29.7,
     "rec_tds_pg": 0.25
-  }
+  },
+  "Stefon Diggs": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 5.0,
+    "rec_ypg": 59.6,
+    "rec_tds_pg": 0.24
+  },
 }
