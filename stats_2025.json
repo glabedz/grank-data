@@ -2439,6 +2439,26 @@
     "rec_ypg": 23.7,
     "rec_tds_pg": 0.14
   },
+   "Darren Waller": {
+    "games": 9,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.4,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 2.7,
+    "rec_ypg": 31.4,
+    "rec_tds_pg": 0.67
+  },
+  "Caleb Douglas": {
+    "games": 0,
+    "pass_ypg": 0,
+    "pass_tds_pg": 0,
+    "rush_ypg": 0,
+    "rush_tds_pg": 0,
+    "rec_pg": 0,
+    "rec_ypg": 0,
+    "rec_tds_pg": 0
+  },
   "Stefon Diggs": {
     "games": 17,
     "pass_ypg": 0.0,
