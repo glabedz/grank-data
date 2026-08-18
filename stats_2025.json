@@ -2449,15 +2449,15 @@
     "rec_ypg": 31.4,
     "rec_tds_pg": 0.67
   },
-  "Caleb Douglas": {
-    "games": 0,
-    "pass_ypg": 0,
-    "pass_tds_pg": 0,
-    "rush_ypg": 0,
-    "rush_tds_pg": 0,
-    "rec_pg": 0,
-    "rec_ypg": 0,
-    "rec_tds_pg": 0
+  "Keenan Allen": {
+    "games": 17,
+    "pass_ypg": 0.0,
+    "pass_tds_pg": 0.0,
+    "rush_ypg": 0.0,
+    "rush_tds_pg": 0.0,
+    "rec_pg": 4.8,
+    "rec_ypg": 45.7,
+    "rec_tds_pg": 0.24
   },
   "Stefon Diggs": {
     "games": 17,
