@@ -1,0 +1,72 @@
+														
+	Pass Yd	0.04 								Fumbles per Game		0.60	RB	63.16%
+	Rush/Rec Yd	0.10 								Fumbles per Game		0.15	QB	15.79%
+	Pass TD	4.00 								Fumbles per Game		0.10	WR	10.53%
+	Rush/Rec TD	6.00 								Fumbles per Game		0.10	TE	10.53%
+	Reception	0.00 								Interceptions per Game		0.65	QB	
+	Interceptions	(2.00)		Check						Team Fumbles per Game		0.50		
+	Fumbles	(2.00)												
+	Misc. TD	6.00 												
+										Tools:				
+	G-RANK Inputs									Target Share: https://hashtagfootball.com/fantasy-football-half-ppr-rankings				
+	Positional Scarcity		Decay							Fantasy Pros: https://www.fantasypros.com/nfl/reports/snap-counts/?show=perc&signedin				
+	WR	2.50 	1.000 							Fantasy Finishes: https://fantasydata.com/nfl/fantasy-football-leaders?scope=season&sp=2025_REG&position=rb&scoring=fpts_half_ppr&order_by=fpts_half_ppr&sort_dir=desc				
+	RB	2.50 	1.050 							Position vs. Defense: https://www.pro-football-reference.com/years/2025/fantasy-points-against-RB.htm				
+	TE	1.40 	1.130 											
+	QB	1.15 	1.270 							Odds Toggle	Odds API	NFL Lines		
+														
+		QB	RB	WR	TE									
+	PS Weighting	53% 	45% 	45% 	40% 					Rush vs. Pass Split Based on Spread			Step:	1.5%
+	PD Weighting	47% 	40% 	40% 	45% 									
+	EPS Weighting	0% 	15% 	15% 	15% 						Min			
+	Upside Index	0% 	0% 	0% 	0% 					-6.0%	-20.0			4.5%
+										-4.5%	-7.5			1.5%
+										-3.0%	-5.5			-1.5%
+	Games Played Assumption	16.00 								-1.5%	-3.5			
+	Std Dev to ADP (All)	64.2 								0.0%	0			
+	Std Dev to ADP (Top 160)	30.0 	50%							1.5%	3.5			
+	Std Dev to ADP (Top 100)	16.4 	30%							3.0%	5.5			
+	Std Dev to ADP (Top 50)	7.5 	20%							4.5%	7.5			
+										6.0%	20.0			
+	Weighted Std. Dev.	21.4 												
+160	Delta to ADP (Top 160)	568 												
+										Sleeper	G-RANK			
+										Healthy	Healthy			
+	Stats Live Through:	Week 18 2025	18 							Questionable	Limited / Handicapped			
+										PUP	Injured			
+1	Week 1 2025	Week 1	2025							DNR	Injured			
+2	Week 2 2025	Week 2	2025							IR	Injured			
+3	Week 3 2025	Week 3	2025							Sus	Injured			
+4	Week 4 2025	Week 4	2025							NA	Injured			
+5	Week 5 2025	Week 5	2025							Doubtful	Injured			
+6	Week 6 2025	Week 6	2025											
+7	Week 7 2025	Week 7	2025							Limited Disc.	0.85			
+8	Week 8 2025	Week 8	2025											
+9	Week 9 2025	Week 9	2025											
+10	Week 10 2025	Week 10	2025											
+11	Week 11 2025	Week 11	2025							Inury Waterall				
+12	Week 12 2025	Week 12	2025											
+13	Week 13 2025	Week 13	2025											
+14	Week 14 2025	Week 14	2025											
+15	Week 15 2025	Week 15	2025											
+16	Week 16 2025	Week 16	2025											
+17	Week 17 2025	Week 17	2025											
+18	Week 18 2025	Week 18	2025											
+19	Week 1 2026	Week 1	2026											
+20	Week 2 2026	Week 2	2026											
+21	Week 3 2026	Week 3	2026											
+22	Week 4 2026	Week 4	2026											
+23	Week 5 2026	Week 5	2026											
+24	Week 6 2026	Week 6	2026											
+25	Week 7 2026	Week 7	2026											
+26	Week 8 2026	Week 8	2026											
+27	Week 9 2026	Week 9	2026											
+28	Week 10 2026	Week 10	2026											
+29	Week 11 2026	Week 11	2026											
+30	Week 12 2026	Week 12	2026											
+31	Week 13 2026	Week 13	2026											
+32	Week 14 2026	Week 14	2026											
+33	Week 15 2026	Week 15	2026											
+34	Week 16 2026	Week 16	2026											
+35	Week 17 2026	Week 17	2026											
+36	Week 18 2026	Week 18	2026											
